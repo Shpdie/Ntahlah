@@ -93,25 +93,25 @@ const _reminder = JSON.parse(fs.readFileSync("./database/reminder.json"));
 /*SETTINGGGGGGGG*/
 banChats = false;
 offline = false;
-targetpc = "6285161632310";
-gopay = "083840290711";
+targetpc = "6281214557752";
+gopay = "Ndak Ada";
 limitawal = "20"
 ovo = "Ndak Ada";
 pulsa = "Ndak Ada";
 dana = "Ndak Ada"
-namabot = "Px Botz";
+namabot = "Kenzo-Botz";
 linkimg = "https://telegra.ph/file/275a1ba617282639cf92e.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
-grupct = "https://chat.whatsapp.com/L9HTjy9FBJIBm3SfQS1pE5";
-owner = "6285161632310";
-nama_owner = "Fuji ";
-instagram = "miaweleganz._";
-yt = "https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg";
-fake = "Poonix Ganz";
+grupct = "-";
+owner = "6281214557752";
+nama_owner = "KenzoGanss";
+instagram = "_";
+yt = "-";
+fake = "KenzoGanss";
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
 waktu = "-";
-alasan = "Gada🗿";
+alasan = "Gada馃椏";
 autojoin = false;
 prefixStatus = false;
 hit_today = [];
@@ -432,7 +432,7 @@ module.exports = syaa = async (syaa, mek) => {
     const pushname = mek.key.fromMe
       ? syaa.user.name
       : conts.notify || conts.vname || conts.name || "-";
-    const readmore = "͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏͏";
+    const readmore = "蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷蛷";
     if (prefix && command) cmdadd();
     const totalhit = JSON.parse(fs.readFileSync("./lib/totalcmd.json"))[0]
       .totalcmd;
@@ -486,7 +486,7 @@ module.exports = syaa = async (syaa, mek) => {
       prem: "Khusus Member Premm!!!",
       own: "*[OWNER BOT ONLY]*",
       ban: "Kamu Telah Di Ban Oleh Owner, silahkan chat owner untuk minta di unban",
-      success: "Success√",
+      success: "Success鈭�",
       wrongFormat: "Format salah, Liat kembali di menu",
       error: {
         stick: "Sticker Only",
@@ -950,25 +950,25 @@ module.exports = syaa = async (syaa, mek) => {
         await syaa.updatePresence(from, Presence.recording)
         
         const sotoy = [
-        '🍊 : 🍒 : 🍐',
-        '🍒 : 🔔 : 🍊',
-        '🍇 : 🍇 : 🍐',
-        '🍊 : 🍋 : 🔔', //ANKER
-        '🔔 : 🍒 : 🍐',
-        '🔔 : 🍒 : 🍊',
-        '🍊 : 🍋 : 🔔',        
-        '🍐 : 🍒 : 🍋',
-        '🍐 : 🍒 : 🍐',
-        '🍊 : 🍒 : 🍒',
-        '🍒 : 🍒 : 🍒 Win👑',
-        '🔔 : 🔔 : 🍇',
-        '🍌 : 🍌 : 🔔',
-        '🔔 : 🔔 : 🔔 Win👑',
-        '🍐 : 🔔 : 🔔',
-        '🍊 : 🍋 : 🍒',
-        '🔔 : 🔔 : 🍇',
-        '🔔 : 🍇 : 🍇', 
-        '🔔 : 🍐 : 🔔','🍊 : 🍒 : 🍐','🍒 : 🔔 : 🍊','🍇 : 🍇 : 🍇 Win👑','🍊 : 🍋 : 🔔','🔔 : 🍒 : 🍐','🔔 : 🍒 : 🍊','🍊 : 🍋 : 🔔',	'🍐 : 🍒 : 🍋','🍐 : 🍐 : 🍐 Win👑','🍊 : 🍒 : 🍒','🔔 : 🔔 : 🍇','🍌 : 🍒 : 🔔','🍐 : 🔔 : 🔔','🍊 : 🍋 : 🍒','🍋 : 🍋 : 🍌','🔔 : 🔔 : 🍇','🔔 : 🍐 : 🍇','🍒 : 🍒 : 🍒 Win👑','🍌 : 🍌 : 🍌 Win👑']
+        '馃崐 : 馃崚 : 馃崘',
+        '馃崚 : 馃敂 : 馃崐',
+        '馃崌 : 馃崌 : 馃崘',
+        '馃崐 : 馃崑 : 馃敂', //ANKER
+        '馃敂 : 馃崚 : 馃崘',
+        '馃敂 : 馃崚 : 馃崐',
+        '馃崐 : 馃崑 : 馃敂',        
+        '馃崘 : 馃崚 : 馃崑',
+        '馃崘 : 馃崚 : 馃崘',
+        '馃崐 : 馃崚 : 馃崚',
+        '馃崚 : 馃崚 : 馃崚 Win馃憫',
+        '馃敂 : 馃敂 : 馃崌',
+        '馃崒 : 馃崒 : 馃敂',
+        '馃敂 : 馃敂 : 馃敂 Win馃憫',
+        '馃崘 : 馃敂 : 馃敂',
+        '馃崐 : 馃崑 : 馃崚',
+        '馃敂 : 馃敂 : 馃崌',
+        '馃敂 : 馃崌 : 馃崌', 
+        '馃敂 : 馃崘 : 馃敂','馃崐 : 馃崚 : 馃崘','馃崚 : 馃敂 : 馃崐','馃崌 : 馃崌 : 馃崌 Win馃憫','馃崐 : 馃崑 : 馃敂','馃敂 : 馃崚 : 馃崘','馃敂 : 馃崚 : 馃崐','馃崐 : 馃崑 : 馃敂',	'馃崘 : 馃崚 : 馃崑','馃崘 : 馃崘 : 馃崘 Win馃憫','馃崐 : 馃崚 : 馃崚','馃敂 : 馃敂 : 馃崌','馃崒 : 馃崚 : 馃敂','馃崘 : 馃敂 : 馃敂','馃崐 : 馃崑 : 馃崚','馃崑 : 馃崑 : 馃崒','馃敂 : 馃敂 : 馃崌','馃敂 : 馃崘 : 馃崌','馃崚 : 馃崚 : 馃崚 Win馃憫','馃崒 : 馃崒 : 馃崒 Win馃憫']
     //if (!isGroup && !isCmd) console.log('\x1b[1;31m~\x1b[1;37m>', '[\x1b[1;31mTEXT\x1b[1;37m]', time, color('Message'), 'from', color(sender.split('@')[0]), 'args :', color(args.length))
     if (prefix && command && isGroup)
       console.log(
@@ -999,7 +999,7 @@ module.exports = syaa = async (syaa, mek) => {
         } else {
           vote.push({
             participant: id_vote,
-            voting: "✅",
+            voting: "鉁�",
           });
           fs.writeFileSync(`./lib/${from}.json`, JSON.stringify(vote));
           let _p = [];
@@ -1031,7 +1031,7 @@ module.exports = syaa = async (syaa, mek) => {
         } else {
           vote.push({
             participant: id_vote,
-            voting: "❌",
+            voting: "鉂�",
           });
           fs.writeFileSync(`./lib/${from}.json`, JSON.stringify(vote));
           let _p = [];
@@ -1196,289 +1196,289 @@ module.exports = syaa = async (syaa, mek) => {
             if (isBanned) return reply(mess.ban)
         var menu = `${ucapanWaktu} kak *${pushname}*
         
-❋─────────────────❋
-*⦿ Jam :* ${jam}
-*⦿ Hari :* ${week} ${weton}
-*⦿ Tanggal :* ${date}
-${readmore}❋─────────────────❋
+鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
+*猞� Jam :* ${jam}
+*猞� Hari :* ${week} ${weton}
+*猞� Tanggal :* ${date}
+${readmore}鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
 
 _ada Bug?_ ketik ${prefix}report _Alasan_
 
 *OWNER*
-• ${prefix}off
-• ${prefix}on
-• ${prefix}status
-• ${prefix}setthumb
-• ${prefix}settarget
-• ${prefix}shutdown
-• ${prefix}hacked
-• ${prefix}setfakeimg
-• ${prefix}addprem @user
-• ${prefix}dellprem @user
-• ${prefix}ban @user
-• ${prefix}unban @user
-• ${prefix}setreply
-• ${prefix}setprefix [2 Button]
-• ${prefix}mode [2 Button self/public]
-• ${prefix}term <code>
-• ${prefix}eval <code>
-• ${prefix}colongsw 
-• ${prefix}readall
+鈥� ${prefix}off
+鈥� ${prefix}on
+鈥� ${prefix}status
+鈥� ${prefix}setthumb
+鈥� ${prefix}settarget
+鈥� ${prefix}shutdown
+鈥� ${prefix}hacked
+鈥� ${prefix}setfakeimg
+鈥� ${prefix}addprem @user
+鈥� ${prefix}dellprem @user
+鈥� ${prefix}ban @user
+鈥� ${prefix}unban @user
+鈥� ${prefix}setreply
+鈥� ${prefix}setprefix [2 Button]
+鈥� ${prefix}mode [2 Button self/public]
+鈥� ${prefix}term <code>
+鈥� ${prefix}eval <code>
+鈥� ${prefix}colongsw 
+鈥� ${prefix}readall
  $
  >
  =>
     
 *GRUP*
-• ${prefix}grup [3 Button]
-• ${prefix}getpic @user
-• ${prefix}promote <reply chat member>
-• ${prefix}demote <reply chat member>
-• ${prefix}setdesc
-• ${prefix}setname
-• ${prefix}kick <reply/tag member>
-• ${prefix}add <reply/tag member>
-• ${prefix}getbio <reply chat member>
-• ${prefix}getname <reply chat member>
-• ${prefix}reminder <msg/2s>
-• ${prefix}listonline
-• ${prefix}groupinfo
-• ${prefix}linkgc
-• ${prefix}sider [reply chat bot]
-• ${prefix}antilink
-• ${prefix}antihidetag
-• ${prefix}antiviewonce
-• ${prefix}antivirtex
-• ${prefix}kickarea
+鈥� ${prefix}grup [3 Button]
+鈥� ${prefix}getpic @user
+鈥� ${prefix}promote <reply chat member>
+鈥� ${prefix}demote <reply chat member>
+鈥� ${prefix}setdesc
+鈥� ${prefix}setname
+鈥� ${prefix}kick <reply/tag member>
+鈥� ${prefix}add <reply/tag member>
+鈥� ${prefix}getbio <reply chat member>
+鈥� ${prefix}getname <reply chat member>
+鈥� ${prefix}reminder <msg/2s>
+鈥� ${prefix}listonline
+鈥� ${prefix}groupinfo
+鈥� ${prefix}linkgc
+鈥� ${prefix}sider [reply chat bot]
+鈥� ${prefix}antilink
+鈥� ${prefix}antihidetag
+鈥� ${prefix}antiviewonce
+鈥� ${prefix}antivirtex
+鈥� ${prefix}kickarea
     
 *MAKER*
-• ${prefix}fdeface
-• ${prefix}semoji
-• ${prefix}wasted
-• ${prefix}wanted
-• ${prefix}pubglogo teks|teks
-• ${prefix}deltrash
-• ${prefix}squidrip
-• ${prefix}sertiff1 <text>
-• ${prefix}bpink <text>
-• ${prefix}tulis
-• ${prefix}googlem Text|Text
-• ${prefix}roses
-• ${prefix}wooden
-• ${prefix}quote
-• ${prefix}textburn
-• ${prefix}card-game Judul|Keterangan
-• ${prefix}tahta _Nama_
-• ${prefix}halloween _Name_
-• ${prefix}minion _Name_
-• ${prefix}dance _Name_
-• ${prefix}warrior _Name_
-• ${prefix}text3d _Name_
-• ${prefix}express
-• ${prefix}spiderman
-• ${prefix}matrix
-• ${prefix}vampire
-• ${prefix}remm _Name_
-• ${prefix}lolim _Text_
-• ${prefix}kaneki _Name_
+鈥� ${prefix}fdeface
+鈥� ${prefix}semoji
+鈥� ${prefix}wasted
+鈥� ${prefix}wanted
+鈥� ${prefix}pubglogo teks|teks
+鈥� ${prefix}deltrash
+鈥� ${prefix}squidrip
+鈥� ${prefix}sertiff1 <text>
+鈥� ${prefix}bpink <text>
+鈥� ${prefix}tulis
+鈥� ${prefix}googlem Text|Text
+鈥� ${prefix}roses
+鈥� ${prefix}wooden
+鈥� ${prefix}quote
+鈥� ${prefix}textburn
+鈥� ${prefix}card-game Judul|Keterangan
+鈥� ${prefix}tahta _Nama_
+鈥� ${prefix}halloween _Name_
+鈥� ${prefix}minion _Name_
+鈥� ${prefix}dance _Name_
+鈥� ${prefix}warrior _Name_
+鈥� ${prefix}text3d _Name_
+鈥� ${prefix}express
+鈥� ${prefix}spiderman
+鈥� ${prefix}matrix
+鈥� ${prefix}vampire
+鈥� ${prefix}remm _Name_
+鈥� ${prefix}lolim _Text_
+鈥� ${prefix}kaneki _Name_
     
 *MAKER CONVERT*
-• ${prefix}spongebobm _ReplyGambar_
-• ${prefix}hengkerm _ReplyGambar_
-• ${prefix}hengkerm2 _ReplyGambar_
-• ${prefix}ripm _ReplyGambar_
-• ${prefix}stonkm _ReplyGambar_
-• ${prefix}notstonkm _ReplyGambar_
-• ${prefix}patrickm _ReplyGambar_
+鈥� ${prefix}spongebobm _ReplyGambar_
+鈥� ${prefix}hengkerm _ReplyGambar_
+鈥� ${prefix}hengkerm2 _ReplyGambar_
+鈥� ${prefix}ripm _ReplyGambar_
+鈥� ${prefix}stonkm _ReplyGambar_
+鈥� ${prefix}notstonkm _ReplyGambar_
+鈥� ${prefix}patrickm _ReplyGambar_
    
 *FUN MENU*
-• ${prefix}slot
-• ${prefix}suit
-• ${prefix}say _Text_
-• ${prefix}bisakah _Querry_
-• ${prefix}kapankah _Querry_
-• ${prefix}apakah _Querry_
-• ${prefix}belah _Querry_
-• ${prefix}bagaimanakah _Querry_
-• ${prefix}rate _Querry_
-• ${prefix}caklontong
-• ${prefix}sangecek _Name_
-• ${prefix}gaycek _Name_
-• ${prefix}terganteng
-• ${prefix}tercantik
-• ${prefix}lesbicek _Name_
-• ${prefix}gantengcek _Name_
-• ${prefix}cantikcek _Name_
-• ${prefix}watak _Name_
-• ${prefix}hobby _Name_
-• ${prefix}jadian
-• ${prefix}ngewe
-• ${prefix}tod
-• ${prefix}truth
-• ${prefix}dare
-• ${prefix}wangy _NamaMu_
-• ${prefix}citacita
+鈥� ${prefix}slot
+鈥� ${prefix}suit
+鈥� ${prefix}say _Text_
+鈥� ${prefix}bisakah _Querry_
+鈥� ${prefix}kapankah _Querry_
+鈥� ${prefix}apakah _Querry_
+鈥� ${prefix}belah _Querry_
+鈥� ${prefix}bagaimanakah _Querry_
+鈥� ${prefix}rate _Querry_
+鈥� ${prefix}caklontong
+鈥� ${prefix}sangecek _Name_
+鈥� ${prefix}gaycek _Name_
+鈥� ${prefix}terganteng
+鈥� ${prefix}tercantik
+鈥� ${prefix}lesbicek _Name_
+鈥� ${prefix}gantengcek _Name_
+鈥� ${prefix}cantikcek _Name_
+鈥� ${prefix}watak _Name_
+鈥� ${prefix}hobby _Name_
+鈥� ${prefix}jadian
+鈥� ${prefix}ngewe
+鈥� ${prefix}tod
+鈥� ${prefix}truth
+鈥� ${prefix}dare
+鈥� ${prefix}wangy _NamaMu_
+鈥� ${prefix}citacita
 
 *STICKER MENU*
-• ${prefix}bajingan lu _Text_
-• ${prefix}sticker
-• ${prefix}gay
-• ${prefix}take Author|Pack
-• ${prefix}swm Author|Pack
-• ${prefix}attp _Text_
-• ${prefix}ttp _Text_
-• ${prefix}ttpblue _Text_
-• ${prefix}ttpyellow _Text_
-• ${prefix}ttpgreen _Text_
+鈥� ${prefix}bajingan lu _Text_
+鈥� ${prefix}sticker
+鈥� ${prefix}gay
+鈥� ${prefix}take Author|Pack
+鈥� ${prefix}swm Author|Pack
+鈥� ${prefix}attp _Text_
+鈥� ${prefix}ttp _Text_
+鈥� ${prefix}ttpblue _Text_
+鈥� ${prefix}ttpyellow _Text_
+鈥� ${prefix}ttpgreen _Text_
    
 *CONVERT*
-• ${prefix}toimg
-• ${prefix}tomp3
-• ${prefix}tomp4
-• ${prefix}slow
-• ${prefix}fast
-• ${prefix}reverse
-• ${prefix}tourl
+鈥� ${prefix}toimg
+鈥� ${prefix}tomp3
+鈥� ${prefix}tomp4
+鈥� ${prefix}slow
+鈥� ${prefix}fast
+鈥� ${prefix}reverse
+鈥� ${prefix}tourl
     
 *DOWNLOADER*
-• ${prefix}youtube <url>
-• ${prefix}ytmp3 <url>
-• ${prefix}ytmp4 <url>
-• ${prefix}tiktok <url>
-• ${prefix}instagram <url>
-• ${prefix}twitter <url>
+鈥� ${prefix}youtube <url>
+鈥� ${prefix}ytmp3 <url>
+鈥� ${prefix}ytmp4 <url>
+鈥� ${prefix}tiktok <url>
+鈥� ${prefix}instagram <url>
+鈥� ${prefix}twitter <url>
 
 *UP STORY*
-• ${prefix}upswteks
-• ${prefix}upswimage
-• ${prefix}upswvideo
-• ${prefix}upswvoice
-• ${prefix}upswgif
-• ${prefix}upswaudio
-• ${prefix}upswsticker
+鈥� ${prefix}upswteks
+鈥� ${prefix}upswimage
+鈥� ${prefix}upswvideo
+鈥� ${prefix}upswvoice
+鈥� ${prefix}upswgif
+鈥� ${prefix}upswaudio
+鈥� ${prefix}upswsticker
 
 *STORAGE MENU*
-• ${prefix}addvn _Nama_
-• ${prefix}addvideo _Nama_
-• ${prefix}addsticker _Nama_
-• ${prefix}addimage _Nama_
-• ${prefix}listvn
-• ${prefix}listvideo
-• ${prefix}liststicker
-• ${prefix}listimg
-• ${prefix}getvn _Database_
-• ${prefix}getvideo _Database_
-• ${prefix}getsticker _Database_
-• ${prefix}getimage _Database_
+鈥� ${prefix}addvn _Nama_
+鈥� ${prefix}addvideo _Nama_
+鈥� ${prefix}addsticker _Nama_
+鈥� ${prefix}addimage _Nama_
+鈥� ${prefix}listvn
+鈥� ${prefix}listvideo
+鈥� ${prefix}liststicker
+鈥� ${prefix}listimg
+鈥� ${prefix}getvn _Database_
+鈥� ${prefix}getvideo _Database_
+鈥� ${prefix}getsticker _Database_
+鈥� ${prefix}getimage _Database_
     
 *FUN*
-• ${prefix}fitnah
-• ${prefix}fitnahpc
-• ${prefix}kontak
+鈥� ${prefix}fitnah
+鈥� ${prefix}fitnahpc
+鈥� ${prefix}kontak
     
 *TAG*
-• ${prefix}hidetag
-• ${prefix}kontag
-• ${prefix}sticktag
-• ${prefix}totag
+鈥� ${prefix}hidetag
+鈥� ${prefix}kontag
+鈥� ${prefix}sticktag
+鈥� ${prefix}totag
     
 *OTHER*
-• ${prefix}shortlink _Link_
-• ${prefix}wikipedia _Querry_
-• ${prefix}asupan
-• ${prefix}ocr
-• ${prefix}asupan2
-• ${prefix}tts id _Text_
-• ${prefix}polosanmeme
-• ${prefix}virtex
-• ${prefix}memeindo
-• ${prefix}detikvn <ReplyVn|Jumlah>
-• ${prefix}detikvideo <ReplyVid|Jumlah>
-• ${prefix}delete
-• ${prefix}infogempa
-• ${prefix}dadu
-• ${prefix}tospam _Jumlah_
-• ${prefix}ping
-• ${prefix}inspect
-• ${prefix}join
-• ${prefix}caripesan <query>
-• ${prefix}get
-• ${prefix}ytsearch <query>
-• ${prefix}igstalk <query>
-• ${prefix}githubstalk <query>
-• ${prefix}tiktokstalk <query>
-• ${prefix}play <query>
-• ${prefix}video <query>
-• ${prefix}igstory <username>
-• ${prefix}twitter <link>
-• ${prefix}tiktok <link>
-• ${prefix}tiktokaudio <link>
-• ${prefix}fb <link>
-• ${prefix}brainly <query>
-• ${prefix}image <query>
-• ${prefix}anime <random>
-• ${prefix}pinterest <query>
-• ${prefix}komiku <query>
-• ${prefix}lirik <query>
-• ${prefix}chara <query>
-• ${prefix}playstore <query>
-• ${prefix}otaku <query>
+鈥� ${prefix}shortlink _Link_
+鈥� ${prefix}wikipedia _Querry_
+鈥� ${prefix}asupan
+鈥� ${prefix}ocr
+鈥� ${prefix}asupan2
+鈥� ${prefix}tts id _Text_
+鈥� ${prefix}polosanmeme
+鈥� ${prefix}virtex
+鈥� ${prefix}memeindo
+鈥� ${prefix}detikvn <ReplyVn|Jumlah>
+鈥� ${prefix}detikvideo <ReplyVid|Jumlah>
+鈥� ${prefix}delete
+鈥� ${prefix}infogempa
+鈥� ${prefix}dadu
+鈥� ${prefix}tospam _Jumlah_
+鈥� ${prefix}ping
+鈥� ${prefix}inspect
+鈥� ${prefix}join
+鈥� ${prefix}caripesan <query>
+鈥� ${prefix}get
+鈥� ${prefix}ytsearch <query>
+鈥� ${prefix}igstalk <query>
+鈥� ${prefix}githubstalk <query>
+鈥� ${prefix}tiktokstalk <query>
+鈥� ${prefix}play <query>
+鈥� ${prefix}video <query>
+鈥� ${prefix}igstory <username>
+鈥� ${prefix}twitter <link>
+鈥� ${prefix}tiktok <link>
+鈥� ${prefix}tiktokaudio <link>
+鈥� ${prefix}fb <link>
+鈥� ${prefix}brainly <query>
+鈥� ${prefix}image <query>
+鈥� ${prefix}anime <random>
+鈥� ${prefix}pinterest <query>
+鈥� ${prefix}komiku <query>
+鈥� ${prefix}lirik <query>
+鈥� ${prefix}chara <query>
+鈥� ${prefix}playstore <query>
+鈥� ${prefix}otaku <query>
     
 *RANDOM IMAGE*
-• ${prefix}darkjoke
-• ${prefix}cecan
-• ${prefix}cogan
-• ${prefix}hentai
-• ${prefix}quotes
-• ${prefix}kucing
-• ${prefix}squidward
-• ${prefix}spongebob
-• ${prefix}patrick
-• ${prefix}minato
-• ${prefix}kakashi
-• ${prefix}boruto
-• ${prefix}sarada
-• ${prefix}mitsuki
-• ${prefix}sasuke
-• ${prefix}sakura
-• ${prefix}itachi
-• ${prefix}megumin
-• ${prefix}loli
-• ${prefix}husbu
-• ${prefix}wafiu
-• ${prefix}wallpaperanime
-• ${prefix}naruto
-• ${prefix}aesthetic
+鈥� ${prefix}darkjoke
+鈥� ${prefix}cecan
+鈥� ${prefix}cogan
+鈥� ${prefix}hentai
+鈥� ${prefix}quotes
+鈥� ${prefix}kucing
+鈥� ${prefix}squidward
+鈥� ${prefix}spongebob
+鈥� ${prefix}patrick
+鈥� ${prefix}minato
+鈥� ${prefix}kakashi
+鈥� ${prefix}boruto
+鈥� ${prefix}sarada
+鈥� ${prefix}mitsuki
+鈥� ${prefix}sasuke
+鈥� ${prefix}sakura
+鈥� ${prefix}itachi
+鈥� ${prefix}megumin
+鈥� ${prefix}loli
+鈥� ${prefix}husbu
+鈥� ${prefix}wafiu
+鈥� ${prefix}wallpaperanime
+鈥� ${prefix}naruto
+鈥� ${prefix}aesthetic
 
 *JADI BOT*
-• ${prefix}jadibot
-• ${prefix}stopjadibot
-• ${prefix}listbot
+鈥� ${prefix}jadibot
+鈥� ${prefix}stopjadibot
+鈥� ${prefix}listbot
 
 *STICKER CMD*
-• ${prefix}addcmd
-• ${prefix}delcmd
-• ${prefix}listcmd
+鈥� ${prefix}addcmd
+鈥� ${prefix}delcmd
+鈥� ${prefix}listcmd
     
 *VOTE*
-• ${prefix}voting
-• ${prefix}delvote
+鈥� ${prefix}voting
+鈥� ${prefix}delvote
  vote
  devote
 
 
  *INFO BOT*
-• Prefix : 「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」
-• Runtime : ${runtime(process.uptime())}
-• Hit Today : ${hit_today.length} Hit
-• Total Hit : ${totalhit} Hit
-• Total Chat : ${totalchat.length} Chat
+鈥� Prefix : 銆� ${prefixStatus ? "Multi Prefix" : "No Prefix"} 銆�
+鈥� Runtime : ${runtime(process.uptime())}
+鈥� Hit Today : ${hit_today.length} Hit
+鈥� Total Hit : ${totalhit} Hit
+鈥� Total Chat : ${totalchat.length} Chat
 
 `;
-        sendButImage(from, menu, "by @Poonix Ganz ❤️", thumb, [
+        sendButImage(from, menu, "by @Poonix Ganz 鉂わ笍", thumb, [
           {
             buttonId: `${prefix}donasi`,
             buttonText: {
-              displayText: `Donasi💰`,
+              displayText: `Donasi馃挵`,
             },
             type: 1,
           },
@@ -1501,7 +1501,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
                 }, 2000)
                 setTimeout( () => {
                 syaa.updatePresence(from, Presence.composing) 
-                syaa.sendMessage(from, 'Bye cuk🗣', text) // ur cods
+                syaa.sendMessage(from, 'Bye cuk馃棧', text) // ur cods
                 }, 0)
                 break
         case 'tagall':
@@ -1523,64 +1523,64 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
             if (isBanned) return reply(mess.ban)
         var menu = `Halloo ${pushname} Aku ${namabot}
 
-❋─────────────────❋
+鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
  *INFO OWNER*
- 📧 Instagram : https://instagram.com/${instagram}
- 🪀 Whatsapp : https://wa.me/${owner}
- 📌 Youtube : ${yt}
+ 馃摟 Instagram : https://instagram.com/${instagram}
+ 馃獉 Whatsapp : https://wa.me/${owner}
+ 馃搶 Youtube : ${yt}
  
 *${prefix}sticker*
 *${prefix}owner*
 *${prefix}info*
 
-❋─────────────────❋
-*• ${prefix}ownermenu*
-*• ${prefix}grupmenu*
-*• ${prefix}makermenu*
-*• ${prefix}funmenu*
-*• ${prefix}convertmenu*
-*• ${prefix}downloadmenu*
-*• ${prefix}uploadmenu*
-*• ${prefix}storagemenu*
-*• ${prefix}menulain*
-*• ${prefix}stcmd*
-*• ${prefix}votemenu*
-*• ${prefix}imagemenu*
-*• ${prefix}makerc*
-*• ${prefix}stcmenu*
+鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
+*鈥� ${prefix}ownermenu*
+*鈥� ${prefix}grupmenu*
+*鈥� ${prefix}makermenu*
+*鈥� ${prefix}funmenu*
+*鈥� ${prefix}convertmenu*
+*鈥� ${prefix}downloadmenu*
+*鈥� ${prefix}uploadmenu*
+*鈥� ${prefix}storagemenu*
+*鈥� ${prefix}menulain*
+*鈥� ${prefix}stcmd*
+*鈥� ${prefix}votemenu*
+*鈥� ${prefix}imagemenu*
+*鈥� ${prefix}makerc*
+*鈥� ${prefix}stcmenu*
  
  Join Grup ${namabot}!
  
  ${grupct}
 
-❋─────────────────❋
+鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
  *INFO BOT PX*
-• Prefix : 「 ${prefixStatus ? "Multi Prefix" : "No Prefix"} 」
-• Runtime : ${runtime(process.uptime())}
-• Hit Today : ${hit_today.length} Hit
-• Total Hit : ${totalhit} Hit
-• Total Chat : ${totalchat.length} Chat
-❋─────────────────❋
+鈥� Prefix : 銆� ${prefixStatus ? "Multi Prefix" : "No Prefix"} 銆�
+鈥� Runtime : ${runtime(process.uptime())}
+鈥� Hit Today : ${hit_today.length} Hit
+鈥� Total Hit : ${totalhit} Hit
+鈥� Total Chat : ${totalchat.length} Chat
+鉂嬧攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂�
 `;
-        sendButImage(from, menu, "ALLERT⚠️\n\nJIKA ANDA MEMAKAI WHATSAPP MOD DAN TOMBOL DIBAWAH TIDAK TERLIHAT\nSILAHKAN KETIK /allmenu", thumb, [
+        sendButImage(from, menu, "ALLERT鈿狅笍\n\nJIKA ANDA MEMAKAI WHATSAPP MOD DAN TOMBOL DIBAWAH TIDAK TERLIHAT\nSILAHKAN KETIK /allmenu", thumb, [
           {
             buttonId: `${prefix}infomenu`,
             buttonText: {
-              displayText: `⋮☰ Semua Menu`,
+              displayText: `鈰槹 Semua Menu`,
             },
             type: 1,
           },
           {
             buttonId: `${prefix}owner`,
             buttonText: {
-              displayText: `⋮☰ Pemilik Bot`,
+              displayText: `鈰槹 Pemilik Bot`,
             },
             type: 1,
           },
         {
             buttonId: `${prefix}peraturan2`,
             buttonText: {
-              displayText: `Syarat & Ketentuan📌`,
+              displayText: `Syarat & Ketentuan馃搶`,
             },
             type: 1,
           },
@@ -1591,7 +1591,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
         sendKontak(from, owner, `${nama_owner}`, `Pemilik ${namabot}`);
         sendButMessage(
           from,
-          `halo� itu ownerku`,
+          `halo� itu ownerku`,
           `jangan lupa folow ig ya`,
           [
             {
@@ -1619,10 +1619,10 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
                   reply(`Salam dong sayang`)
                 }
         case "peraturan":
-        reply("By @Poonix Ganz\n\nPergunakan Bot Dengan Baik Dan Bijak!!!\n- Jangan Spam Dan Jangan Telepon Bot!!!\n- Silahkan Hubungi Owner Jika Bot Mengalama Kendala!!\n- Jangan Paksakan Bot Masuk Ke Grup Kamu!!!\n- <> TIDAK DI ANGGAP!!\n\nOkee Thanks🗿");
+        reply("By @Poonix Ganz\n\nPergunakan Bot Dengan Baik Dan Bijak!!!\n- Jangan Spam Dan Jangan Telepon Bot!!!\n- Silahkan Hubungi Owner Jika Bot Mengalama Kendala!!\n- Jangan Paksakan Bot Masuk Ke Grup Kamu!!!\n- <> TIDAK DI ANGGAP!!\n\nOkee Thanks馃椏");
         break;
         case "hina":
-          reply("apa lu anjing😡")
+          reply("apa lu anjing馃槨")
           break;
         
       //------------------< Sticker Cmd >-------------------
@@ -1655,11 +1655,11 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
         reply("Done!");
         break;
       case "listcmd":
-        teksnyee = `\`\`\`「 LIST STICKER CMD 」\`\`\``;
+        teksnyee = `\`\`\`銆� LIST STICKER CMD 銆峔`\`\``;
         cemde = [];
         for (let i of _scommand) {
           cemde.push(i.id);
-          teksnyee += `\n\n➸ *ID :* ${i.id}\n➸ *Cmd* : ${i.chats}`;
+          teksnyee += `\n\n鉃� *ID :* ${i.id}\n鉃� *Cmd* : ${i.chats}`;
         }
         mentions(teksnyee, cemde, true);
         break;
@@ -1667,7 +1667,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
       //funmenu
                 case "bisakah":
                   if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
               
 					bisakah = body.slice(1)
@@ -1678,7 +1678,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
 					break
 		            case "kapankah":
 		              if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                 
 					kapankah = body.slice(1)
@@ -1689,7 +1689,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
 					break
 		            case "apakah":
 		              if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					apakah = body.slice(1)
@@ -1700,7 +1700,7 @@ _ada Bug?_ ketik ${prefix}report _Alasan_
 					break
 case "belah":
   if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by herman
+					// 鈿狅笍 Case by herman
                  
 				if (args.length < 1) return reply('mana pertanyaan nya kak?\nContoh #iyas bermain Free Fire')
 					iyas = body.slice(7)
@@ -1711,7 +1711,7 @@ case "belah":
 					break
 		            case "bagaimanakah":
 		              if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					bagaimanakah = body.slice(1)
@@ -1722,7 +1722,7 @@ case "belah":
 					break
 		            case "rate":
 		              if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					rate = body.slice(1)
@@ -1732,7 +1732,7 @@ case "belah":
 					await limitAdd(sender)
 					break
                     case "sangecek":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 if (isBanned) return reply(mess.ban)
                  
 					sange = body.slice(1)
@@ -1743,7 +1743,7 @@ if (isBanned) return reply(mess.ban)
 					break
 case "gaycek":
   if (isBanned) return reply(mess.ban)
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
               
 					gayy = body.slice(1)
@@ -1893,7 +1893,7 @@ case 'addimage':
 					break
 ////atm&limit
 case "limit":
-				// Fix Case By Yogi/Hans⛔
+				// Fix Case By Yogi/Hans鉀�
                  
 				checkLimit(sender)
 				break
@@ -1903,7 +1903,7 @@ case 'slot':
             case 'slots':
               if (isBanned) return reply(mess.ban)
             const somtoy = sotoy[Math.floor(Math.random() * sotoy.length)]
-            syaa.sendMessage(from, `[  🎰 | SLOTS ]\n-----------------\n🍋 : 🍌 : 🍍\n${somtoy} <=====||\n🍋 : 🍌 : 🍍\n[  🎰 | SLOTS ]\n\nKeterangan : Jika anda Mendapatkan 3Buah Sama Berarti Anda Menang\n\nContoh : 🍌 : 🍌 : 🍌<=====`, MessageType.text, { quoted: mek })
+            syaa.sendMessage(from, `[  馃幇 | SLOTS ]\n-----------------\n馃崑 : 馃崒 : 馃崓\n${somtoy} <=====||\n馃崑 : 馃崒 : 馃崓\n[  馃幇 | SLOTS ]\n\nKeterangan : Jika anda Mendapatkan 3Buah Sama Berarti Anda Menang\n\nContoh : 馃崒 : 馃崒 : 馃崒<=====`, MessageType.text, { quoted: mek })
             sendButMessage(from, `Mau main lagi?`, `Pencet tombol di bawah`, [
           {
             buttonId: `${prefix}slot`,
@@ -1998,7 +1998,7 @@ case 'spongebobm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/knights/spongebob?apikey=hardianto&pp=${anu.display_url}`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'hengkerm':
@@ -2013,7 +2013,7 @@ case 'hengkerm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/beta/hacker2?apikey=hardianto&pp=${anu.display_url}`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'hengkerm2':
@@ -2028,7 +2028,7 @@ case 'hengkerm2':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/beta/hacker3?apikey=hardianto&pp=${anu.display_url}`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'ripm':
@@ -2043,7 +2043,7 @@ case 'ripm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/rip?image=${anu.display_url}&apikey=hardianto`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'stonkm':
@@ -2058,7 +2058,7 @@ case 'stonkm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/stonk?image=${anu.display_url}&apikey=hardianto`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'notstonkm':
@@ -2073,7 +2073,7 @@ case 'notstonkm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/not-stonk?image=${anu.display_url}&apikey=hardianto`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'patrickm':
@@ -2088,7 +2088,7 @@ case 'patrickm':
 	  hehe = await getBuffer(`https://hardianto-chan.herokuapp.com/api/knights/patrick?apikey=hardianto&pp=${anu.display_url}`)
 	 syaa.sendMessage(from, hehe, image, {quoted:mek})
 	} else {
-	  reply('Foto Nya Mana Gan 🗿')
+	  reply('Foto Nya Mana Gan 馃椏')
 	}
 	break
 case 'ocr':
@@ -2142,25 +2142,25 @@ case 'sutit':
   if (args.length < 1) return reply('Pilih gunting/batu/kertas')
 					if (args[0] === 'gunting' ) {
 					  gunting = [
-					    "Kamu *Gunting*\nAku *Kertas*\nKamu Menang 😔",
-					    "Kamu *Gunting*\nAku *Batu*\nKamu Kalah 🙂",
-					    "Kamu *Gunting*\nAku *Gunting*\nKita Seri 😏"
+					    "Kamu *Gunting*\nAku *Kertas*\nKamu Menang 馃様",
+					    "Kamu *Gunting*\nAku *Batu*\nKamu Kalah 馃檪",
+					    "Kamu *Gunting*\nAku *Gunting*\nKita Seri 馃槒"
 					    ]
 					  gun = gunting[Math.floor(Math.random() * gunting.length)]
 					  reply(gun)
 					} else if (args[0] === 'kertas') {
 					  ker = [
-					    "Kamu *Kertas*\nAku *Batu*\nKamu Menang 😔",
-					    "Kamu *Kertas*\nAku *Gunting*\nKamu Kalah 🙂",
-					    "Kamu *Kertas*\nAku *Kertas*\nKita Seri 😏"
+					    "Kamu *Kertas*\nAku *Batu*\nKamu Menang 馃様",
+					    "Kamu *Kertas*\nAku *Gunting*\nKamu Kalah 馃檪",
+					    "Kamu *Kertas*\nAku *Kertas*\nKita Seri 馃槒"
 					    ]
 					  kertas = ker[Math.floor(Math.random() * ker.length)]
 						reply(kertas)
 					} else if (args[0] === 'batu') {
 					  bat = [
 					    "Kamu *Batu*\nAku *Gunting*\nKamu Menang ??",
-					    "Kamu *Batu*\nAku *Kertas*\nKamu Kalah 🙂",
-					    "Kamu *Batu*\nAku *Batu*\nKita Seri 😏"
+					    "Kamu *Batu*\nAku *Kertas*\nKamu Kalah 馃檪",
+					    "Kamu *Batu*\nAku *Batu*\nKita Seri 馃槒"
 					    ]
 					  batu = bat[Math.floor(Math.random() * bat.length)]
 					  reply(batu)
@@ -2206,7 +2206,7 @@ case 'wangy':
   if (isBanned) return reply(mess.ban)
               if (!q) return
               qq = q.toUpperCase()
-              awikwok = `${qq} ${qq} ${qq} ❤️ ❤️ ❤️ WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya rambut ${qq} wangyy aku mau nyiumin aroma wangynya ${qq} AAAAAAAAH ~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~~ AAAAAH ${qq} keluar pertama kali di anime juga manis ❤️ ❤️ ❤️ banget AAAAAAAAH ${qq} AAAAA LUCCUUUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH ❤️ ❤️ ❤️apa ? ${qq} itu gak nyata ? Cuma HALU katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA NGAAAAAAAAAAAAAAAAAK PEDULI BANGSAAAAAT !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI. ❤️ ❤️ ❤️ ${qq} gw ... ${qq} di laptop ngeliatin gw, ${qq} .. kamu percaya sama aku ? aaaaaaaaaaah syukur ${q} aku gak mau merelakan ${qq} aaaaaah ❤️ ❤️ ❤️ YEAAAAAAAAAAAH GUA MASIH PUNYA ${qq} SENDIRI PUN NGGAK SAMA AAAAAAAAAAAAAAH`
+              awikwok = `${qq} ${qq} ${qq} 鉂わ笍 鉂わ笍 鉂わ笍 WANGY WANGY WANGY WANGY HU HA HU HA HU HA, aaaah baunya rambut ${qq} wangyy aku mau nyiumin aroma wangynya ${qq} AAAAAAAAH ~ Rambutnya.... aaah rambutnya juga pengen aku elus-elus ~~ AAAAAH ${qq} keluar pertama kali di anime juga manis 鉂わ笍 鉂わ笍 鉂わ笍 banget AAAAAAAAH ${qq} AAAAA LUCCUUUUUUUUUUUUUUU............ ${qq} AAAAAAAAAAAAAAAAAAAAGH 鉂わ笍 鉂わ笍 鉂わ笍apa ? ${qq} itu gak nyata ? Cuma HALU katamu ? nggak, ngak ngak ngak ngak NGAAAAAAAAK GUA GAK PERCAYA ITU DIA NYATA NGAAAAAAAAAAAAAAAAAK PEDULI BANGSAAAAAT !! GUA GAK PEDULI SAMA KENYATAAN POKOKNYA GAK PEDULI. 鉂わ笍 鉂わ笍 鉂わ笍 ${qq} gw ... ${qq} di laptop ngeliatin gw, ${qq} .. kamu percaya sama aku ? aaaaaaaaaaah syukur ${q} aku gak mau merelakan ${qq} aaaaaah 鉂わ笍 鉂わ笍 鉂わ笍 YEAAAAAAAAAAAH GUA MASIH PUNYA ${qq} SENDIRI PUN NGGAK SAMA AAAAAAAAAAAAAAH`
               reply(awikwok)
               break
  case "virtex":
@@ -2276,7 +2276,7 @@ var c = '```'
 					teks = (args.length > 1) ? body.slice(8).trim() : ''
 					teks += '\n\n'
 					for (let mem of groupMembers) {
-						teks += ` *→*  @${mem.jid.split('@')[0]}\n`
+						teks += ` *鈫�*  @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
 					mentions(teks, members_id, true)
@@ -2656,7 +2656,7 @@ case 'infogempa':
   if (isBanned) return reply(mess.ban)
 					anu = await fetchJson(`https://bx-hunter.herokuapp.com/api/info/gempa?apikey=Ikyy69`, {method: 'get'})
 
-					gempa = `❏ *INFO GEMPA*\n\n❏ Waktu : ${anu.result.Waktu}\n❏ Lintang : ${anu.result.Lintang}\n❏ Bujur : ${anu.result.Bujur}\n❏ Magnitudo : ${anu.result.Magnitudo}\n❏ Kedalaman : ${anu.result.Kedalaman}\n❏ Wilayah : ${anu.result.Wilayah}`
+					gempa = `鉂� *INFO GEMPA*\n\n鉂� Waktu : ${anu.result.Waktu}\n鉂� Lintang : ${anu.result.Lintang}\n鉂� Bujur : ${anu.result.Bujur}\n鉂� Magnitudo : ${anu.result.Magnitudo}\n鉂� Kedalaman : ${anu.result.Kedalaman}\n鉂� Wilayah : ${anu.result.Wilayah}`
 					reply('Sabar sayang')
 					buff = await getBuffer(anu.result.Map)
 					syaa.sendMessage(from, buff, image, {quoted: mek, caption: gempa})
@@ -2687,7 +2687,7 @@ case "infofilm": // Update NEW FITUR
 if (isBanned) return reply(mess.ban)
 reply(`wait loading`)
                 if (args.length < 1) return reply(`mau nyari apaan bwang di joox?`)
-                reply(`[❕] Loading`)
+                reply(`[鉂昡 Loading`)
                 asu = await fetchJson(`https://rest-api-megumin1.herokuapp.com/api/filmapik/search?film=${body.slice(10)}&apikey=beta`)
                 teks = '=================\n'
                 resa = asu.result.result
@@ -2697,16 +2697,16 @@ reply(`wait loading`)
                 reply(teks)
                 break
 case 'donat':
-              reply(`◪ *DONASI*
-  │
-  ├─ ❏ *GOPAY*
-  ├─ ❏ GAK ADA
-  ├─ ❏ *OVO*
-  ├─ ❏ GAK ADA
-  ├─ ❏ *PULSA*
-  ├─ ❏ 085161632310
-  ├─ ❏ *INSTAGRAM*
-  └─ ❏ https://www.instagram.com/@miaweleganz._`)
+              reply(`鈼� *DONASI*
+  鈹�
+  鈹溾攢 鉂� *GOPAY*
+  鈹溾攢 鉂� GAK ADA
+  鈹溾攢 鉂� *OVO*
+  鈹溾攢 鉂� GAK ADA
+  鈹溾攢 鉂� *PULSA*
+  鈹溾攢 鉂� 085161632310
+  鈹溾攢 鉂� *INSTAGRAM*
+  鈹斺攢 鉂� https://www.instagram.com/@miaweleganz._`)
 
               break
 case 'suratke': // Case Oleh Rafli
@@ -2722,16 +2722,16 @@ if (isBanned) return reply(mess.ban)
 				pping = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
 				const mnik = `
-╔════ ◤ *SURAT FITUR* ◢
-║╔▸
-║╠ *From* : ${pushname}
-║╠ *Number* : @${sender.split("@")[0]}
-║╠ *For* : You
-║╚▸
-║╔▸   ﹝ *ISI SURAT* ﹞  
-║╠ ${katakita2}
-║╚▸
-╚═══ ◤ *BY MINFORMASI* ◢ `
+鈺斺晲鈺愨晲鈺� 鈼� *SURAT FITUR* 鈼�
+鈺戔晹鈻�
+鈺戔暊 *From* : ${pushname}
+鈺戔暊 *Number* : @${sender.split("@")[0]}
+鈺戔暊 *For* : You
+鈺戔暁鈻�
+鈺戔晹鈻�   锕� *ISI SURAT* 锕�  
+鈺戔暊 ${katakita2}
+鈺戔暁鈻�
+鈺氣晲鈺愨晲 鈼� *BY MINFORMASI* 鈼� `
 				syaa.sendMessage(`${noorg2}@s.whatsapp.net`,pping, image , {caption: mnik, quoted: { key: {fromMe:false, participant:`${noorg2}@s.whatsapp.net`},message: { conversation: `${kataorg2}`, contextInfo: {"mentionedJid": [sender]}}}});	
 				reply('Surat Sukses Dikirim')
 				break
@@ -2747,7 +2747,7 @@ case "spamct":
 					break
 case "truth":
   if (isBanned) return reply(mess.ban)
-					// Fix Case By Yogi/Hans⛔
+					// Fix Case By Yogi/Hans鉀�
                  
 					const trut =['Pernah suka sama siapa aja? berapa lama?','Kalau boleh atau kalau mau, di gc/luar gc siapa yang akan kamu jadikan sahabat?(boleh beda/sma jenis)','apa ketakutan terbesar kamu?','pernah suka sama orang dan merasa orang itu suka sama kamu juga?','Siapa nama mantan pacar teman mu yang pernah kamu sukai diam diam?','pernah gak nyuri uang nyokap atau bokap? Alesanya?','hal yang bikin seneng pas lu lagi sedih apa','pernah cinta bertepuk sebelah tangan? kalo pernah sama siapa? rasanya gimana brou?','pernah jadi selingkuhan orang?','hal yang paling ditakutin','siapa orang yang paling berpengaruh kepada kehidupanmu','hal membanggakan apa yang kamu dapatkan di tahun ini','siapa orang yang bisa membuatmu sange','siapa orang yang pernah buatmu sange','(bgi yg muslim) pernah ga solat seharian?','Siapa yang paling mendekati tipe pasangan idealmu di sini','suka mabar(main bareng)sama siapa?','pernah nolak orang? alasannya kenapa?','Sebutkan kejadian yang bikin kamu sakit hati yang masih di inget','pencapaian yang udah didapet apa aja ditahun ini?','kebiasaan terburuk lo pas di sekolah apa?']
 					const ttrth = trut[Math.floor(Math.random() * trut.length)]
@@ -2757,7 +2757,7 @@ case "truth":
 
             buttonId: `${prefix}truth`,
             buttonText: {
-              displayText: `Truth😆`,
+              displayText: `Truth馃槅`,
             },
             type: 1,
           },
@@ -2767,16 +2767,16 @@ case "truth":
 					break
 		case "dare":
 		  if (isBanned) return reply(mess.ban)
-					// Fix Case By Yogi/Hans⛔
+					// Fix Case By Yogi/Hans鉀�
                  
-					const dare =['Kirim pesan ke mantan kamu dan bilang "aku masih suka sama kamu','telfon crush/pacar sekarang dan ss ke pemain','pap ke salah satu anggota grup','Bilang "KAMU CANTIK BANGET NGGAK BOHONG" ke cowo','ss recent call whatsapp','drop emot "🦄💨" setiap ngetik di gc/pc selama 1 hari','kirim voice note bilang can i call u baby?','drop kutipan lagu/quote, terus tag member yang cocok buat kutipan itu','pake foto sule sampe 3 hari','ketik pake bahasa daerah 24 jam','ganti nama menjadi "gue anak lucinta luna" selama 5 jam','chat ke kontak wa urutan sesuai %batre kamu, terus bilang ke dia "i lucky to hv you','prank chat mantan dan bilang " i love u, pgn balikan','record voice baca surah al-kautsar','bilang "i hv crush on you, mau jadi pacarku gak?" ke lawan jenis yang terakhir bgt kamu chat (serah di wa/tele), tunggu dia bales, kalo udah ss drop ke sini','sebutkan tipe pacar mu!','snap/post foto pacar/crush','teriak gajelas lalu kirim pake vn kesini','pap mukamu lalu kirim ke salah satu temanmu','kirim fotomu dengan caption, aku anak pungut','teriak pake kata kasar sambil vn trus kirim kesini','teriak " anjimm gabutt anjimmm " di depan rumah mu','ganti nama jadi " BOWO " selama 24 jam','Pura pura kerasukan, contoh : kerasukan maung, kerasukan belalang, kerasukan kulkas, dll']
+					const dare =['Kirim pesan ke mantan kamu dan bilang "aku masih suka sama kamu','telfon crush/pacar sekarang dan ss ke pemain','pap ke salah satu anggota grup','Bilang "KAMU CANTIK BANGET NGGAK BOHONG" ke cowo','ss recent call whatsapp','drop emot "馃馃挩" setiap ngetik di gc/pc selama 1 hari','kirim voice note bilang can i call u baby?','drop kutipan lagu/quote, terus tag member yang cocok buat kutipan itu','pake foto sule sampe 3 hari','ketik pake bahasa daerah 24 jam','ganti nama menjadi "gue anak lucinta luna" selama 5 jam','chat ke kontak wa urutan sesuai %batre kamu, terus bilang ke dia "i lucky to hv you','prank chat mantan dan bilang " i love u, pgn balikan','record voice baca surah al-kautsar','bilang "i hv crush on you, mau jadi pacarku gak?" ke lawan jenis yang terakhir bgt kamu chat (serah di wa/tele), tunggu dia bales, kalo udah ss drop ke sini','sebutkan tipe pacar mu!','snap/post foto pacar/crush','teriak gajelas lalu kirim pake vn kesini','pap mukamu lalu kirim ke salah satu temanmu','kirim fotomu dengan caption, aku anak pungut','teriak pake kata kasar sambil vn trus kirim kesini','teriak " anjimm gabutt anjimmm " di depan rumah mu','ganti nama jadi " BOWO " selama 24 jam','Pura pura kerasukan, contoh : kerasukan maung, kerasukan belalang, kerasukan kulkas, dll']
 					const der = dare[Math.floor(Math.random() * dare.length)]
 					sya = await getBuffer(`https://i.ibb.co/305yt26/bf84f20635dedd5dde31e7e5b6983ae9.jpg`)
 					sendButImage(from, der, "Case By @iamghosky_\nmau lagi? tekan tombol di bawah", thumb, [
           {
             buttonId: `${prefix}dare`,
             buttonText: {
-              displayText: `Dare😆`,
+              displayText: `Dare馃槅`,
             },
             type: 1,
           },
@@ -2787,50 +2787,50 @@ case "donasi":
   case "donate":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`${linkimg}`)
-					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `◪ *DONASI*
-  │
-  ├─ ❏ *GOPAY*
-  ├─ ❏ ${gopay}
-  ├─ ❏ *OVO*
-  ├─ ❏ ${ovo}
-  ├─ ❏ *DANA*
-  ├─ ❏ ${dana}
-  ├─ ❏ *PULSA*
-  ├─ ❏ ${pulsa}
-  ├─ ❏ *INSTAGRAM*
-  └─ ❏ https://www.instagram.com/${instagram}` })
+					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `鈼� *DONASI*
+  鈹�
+  鈹溾攢 鉂� *GOPAY*
+  鈹溾攢 鉂� ${gopay}
+  鈹溾攢 鉂� *OVO*
+  鈹溾攢 鉂� ${ovo}
+  鈹溾攢 鉂� *DANA*
+  鈹溾攢 鉂� ${dana}
+  鈹溾攢 鉂� *PULSA*
+  鈹溾攢 鉂� ${pulsa}
+  鈹溾攢 鉂� *INSTAGRAM*
+  鈹斺攢 鉂� https://www.instagram.com/${instagram}` })
 					break
 case "info":
     me = syaa.user
 					uptime = process.uptime()
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
-					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*INFO OWNER*\n*Owner bot* : herman botz\n*No Owner* : wa.me/6283146208804\n*Ig owner* : www.instagram.com/${instagram}\n━━━━━━━━━━━━━━━━━━━━\n*INFO BOT*\n*Nama bot* : ${me.name}\n*Nomor bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total block contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}\n*Ketik* : ${prefix}report _Untuk melaporkan admin bot melalui bot_\n*Ketik* : ${prefix}owner untuk menghubungi admin bot kami.` })
+					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*INFO OWNER*\n*Owner bot* : herman botz\n*No Owner* : wa.me/6283146208804\n*Ig owner* : www.instagram.com/${instagram}\n鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣鈹佲攣\n*INFO BOT*\n*Nama bot* : ${me.name}\n*Nomor bot* : @${me.jid.split('@')[0]}\n*Prefix* : ${prefix}\n*Total block contact* : ${blocked.length}\n*The bot is active on* : ${kyun(uptime)}\n*Ketik* : ${prefix}report _Untuk melaporkan admin bot melalui bot_\n*Ketik* : ${prefix}owner untuk menghubungi admin bot kami.` })
 					break
-//MENU² AN
+//MENU虏 AN
 case "ownermenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*OWNER MENU*
-• ${prefix}off
-• ${prefix}on
-• ${prefix}status
-• ${prefix}setthumb
-• ${prefix}settarget
-• ${prefix}shutdown
-• ${prefix}hacked
-• ${prefix}setfakeimg
-• ${prefix}setreply
-• ${prefix}addprem @user
-• ${prefix}dellprem @user
-• ${prefix}ban @user
-• ${prefix}unban @user
-• ${prefix}setprefix [2 Button]
-• ${prefix}mode [2 Button self/public]
-• ${prefix}term <code>
-• ${prefix}eval <code>
-• ${prefix}colongsw [reply sw]
-• ${prefix}readall
+鈥� ${prefix}off
+鈥� ${prefix}on
+鈥� ${prefix}status
+鈥� ${prefix}setthumb
+鈥� ${prefix}settarget
+鈥� ${prefix}shutdown
+鈥� ${prefix}hacked
+鈥� ${prefix}setfakeimg
+鈥� ${prefix}setreply
+鈥� ${prefix}addprem @user
+鈥� ${prefix}dellprem @user
+鈥� ${prefix}ban @user
+鈥� ${prefix}unban @user
+鈥� ${prefix}setprefix [2 Button]
+鈥� ${prefix}mode [2 Button self/public]
+鈥� ${prefix}term <code>
+鈥� ${prefix}eval <code>
+鈥� ${prefix}colongsw [reply sw]
+鈥� ${prefix}readall
  $
  >
  =>` })
@@ -2840,268 +2840,268 @@ case "grupmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*GRUP MENU*
-• ${prefix}grup [3 Button]
-• ${prefix}promote <reply chat member>
-• ${prefix}demote <reply chat member>
-• ${prefix}setdesc
-• ${prefix}setname
-• ${prefix}hidetag
-• ${prefix}kontag
-• ${prefix}sticktag
-• ${prefix}totag
-• ${prefix}kick <reply/tag member>
-• ${prefix}add <reply/tag member>
-• ${prefix}getbio <reply chat member>
-• ${prefix}getname <reply chat member>
-• ${prefix}reminder <msg/2s>
-• ${prefix}listonline
-• ${prefix}groupinfo
-• ${prefix}linkgc
-• ${prefix}sider [reply chat bot]
-• ${prefix}antilink
-• ${prefix}antihidetag
-• ${prefix}antiviewonce
-• ${prefix}antivirtex
-• ${prefix}kickarea` })
+鈥� ${prefix}grup [3 Button]
+鈥� ${prefix}promote <reply chat member>
+鈥� ${prefix}demote <reply chat member>
+鈥� ${prefix}setdesc
+鈥� ${prefix}setname
+鈥� ${prefix}hidetag
+鈥� ${prefix}kontag
+鈥� ${prefix}sticktag
+鈥� ${prefix}totag
+鈥� ${prefix}kick <reply/tag member>
+鈥� ${prefix}add <reply/tag member>
+鈥� ${prefix}getbio <reply chat member>
+鈥� ${prefix}getname <reply chat member>
+鈥� ${prefix}reminder <msg/2s>
+鈥� ${prefix}listonline
+鈥� ${prefix}groupinfo
+鈥� ${prefix}linkgc
+鈥� ${prefix}sider [reply chat bot]
+鈥� ${prefix}antilink
+鈥� ${prefix}antihidetag
+鈥� ${prefix}antiviewonce
+鈥� ${prefix}antivirtex
+鈥� ${prefix}kickarea` })
 					break
 case "makermenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*MAKER MENU*
-• ${prefix}memegen Atas|Bawah
-• ${prefix}bajingan lu _Nama Mu_
-• ${prefix}sticker
-• ${prefix}attp _Text_
-• ${prefix}fdeface
-• ${prefix}semoji
-• ${prefix}wasted
-• ${prefix}wanted
-• ${prefix}pubglogo teks|teks
-• ${prefix}deltrash
-• ${prefix}card-game Judul|Keterangan
-• ${prefix}squidrip
-• ${prefix}sertiff1 <text>
-• ${prefix}bpink <text>
-• ${prefix}tulis
-• ${prefix}googlem Text|Text
-• ${prefix}roses
-• ${prefix}wooden
-• ${prefix}quote
-• ${prefix}textburn
-• ${prefix}tahta _Nama_
-• ${prefix}halloween _Name_
-• ${prefix}minion _Name_
-• ${prefix}dance _Name_
-• ${prefix}warrior _Name_
-• ${prefix}text3d _Name_
-• ${prefix}express _Name_
-• ${prefix}spiderman _Name_
-• ${prefix}matrix _Name_
-• ${prefix}vampire _Name_
-• ${prefix}lolim _Text_
-• ${prefix}remm _Text_
-• ${prefix}gura _Text_
-• ${prefix}kaneki _Name_` })
+鈥� ${prefix}memegen Atas|Bawah
+鈥� ${prefix}bajingan lu _Nama Mu_
+鈥� ${prefix}sticker
+鈥� ${prefix}attp _Text_
+鈥� ${prefix}fdeface
+鈥� ${prefix}semoji
+鈥� ${prefix}wasted
+鈥� ${prefix}wanted
+鈥� ${prefix}pubglogo teks|teks
+鈥� ${prefix}deltrash
+鈥� ${prefix}card-game Judul|Keterangan
+鈥� ${prefix}squidrip
+鈥� ${prefix}sertiff1 <text>
+鈥� ${prefix}bpink <text>
+鈥� ${prefix}tulis
+鈥� ${prefix}googlem Text|Text
+鈥� ${prefix}roses
+鈥� ${prefix}wooden
+鈥� ${prefix}quote
+鈥� ${prefix}textburn
+鈥� ${prefix}tahta _Nama_
+鈥� ${prefix}halloween _Name_
+鈥� ${prefix}minion _Name_
+鈥� ${prefix}dance _Name_
+鈥� ${prefix}warrior _Name_
+鈥� ${prefix}text3d _Name_
+鈥� ${prefix}express _Name_
+鈥� ${prefix}spiderman _Name_
+鈥� ${prefix}matrix _Name_
+鈥� ${prefix}vampire _Name_
+鈥� ${prefix}lolim _Text_
+鈥� ${prefix}remm _Text_
+鈥� ${prefix}gura _Text_
+鈥� ${prefix}kaneki _Name_` })
 					break
 case "funmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya, image, { quoted: mek, caption: `*FUN MENU*
-• ${prefix}slot
-• ${prefix}suit
-• ${prefix}say _Text_
-• ${prefix}bisakah _Querry_
-• ${prefix}kapankah _Querry_
-• ${prefix}apakah _Querry_
-• ${prefix}belah _Querry_
-• ${prefix}bagaimanakah _Querry_
-• ${prefix}rate _Querry_
-• ${prefix}caklontong
-• ${prefix}sangecek _Name_
-• ${prefix}gaycek _Name_
-• ${prefix}terganteng
-• ${prefix}tercantik
-• ${prefix}lesbicek _Name_
-• ${prefix}gantengcek _Name_
-• ${prefix}cantikcek _Name_
-• ${prefix}watak _Name_
-• ${prefix}hobby _Name_
-• ${prefix}fitnah
-• ${prefix}fitnahpc
-• ${prefix}kontak 6285161632310|fuji
-• ${prefix}jadian
-• ${prefix}
-• ${prefix}tod
-• ${prefix}truth
-• ${prefix}dare
-• ${prefix}wangy _NamaMu_
-• ${prefix}citacita` })
+鈥� ${prefix}slot
+鈥� ${prefix}suit
+鈥� ${prefix}say _Text_
+鈥� ${prefix}bisakah _Querry_
+鈥� ${prefix}kapankah _Querry_
+鈥� ${prefix}apakah _Querry_
+鈥� ${prefix}belah _Querry_
+鈥� ${prefix}bagaimanakah _Querry_
+鈥� ${prefix}rate _Querry_
+鈥� ${prefix}caklontong
+鈥� ${prefix}sangecek _Name_
+鈥� ${prefix}gaycek _Name_
+鈥� ${prefix}terganteng
+鈥� ${prefix}tercantik
+鈥� ${prefix}lesbicek _Name_
+鈥� ${prefix}gantengcek _Name_
+鈥� ${prefix}cantikcek _Name_
+鈥� ${prefix}watak _Name_
+鈥� ${prefix}hobby _Name_
+鈥� ${prefix}fitnah
+鈥� ${prefix}fitnahpc
+鈥� ${prefix}kontak 6285161632310|fuji
+鈥� ${prefix}jadian
+鈥� ${prefix}
+鈥� ${prefix}tod
+鈥� ${prefix}truth
+鈥� ${prefix}dare
+鈥� ${prefix}wangy _NamaMu_
+鈥� ${prefix}citacita` })
 					break
 case "convertmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*CONVERT*
-• ${prefix}toimg
-• ${prefix}tomp3
-• ${prefix}tomp4
-• ${prefix}slow
-• ${prefix}fast
-• ${prefix}reverse
-• ${prefix}tourl` })
+鈥� ${prefix}toimg
+鈥� ${prefix}tomp3
+鈥� ${prefix}tomp4
+鈥� ${prefix}slow
+鈥� ${prefix}fast
+鈥� ${prefix}reverse
+鈥� ${prefix}tourl` })
 					break
 case "downloadmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*DOWNLOADER MENU*
-• ${prefix}youtube <url>
-• ${prefix}ytmp3 <url>
-• ${prefix}ytmp4 <url>
-• ${prefix}tiktok <url>
-• ${prefix}instagram <url>
-• ${prefix}twitter <url>` })
+鈥� ${prefix}youtube <url>
+鈥� ${prefix}ytmp3 <url>
+鈥� ${prefix}ytmp4 <url>
+鈥� ${prefix}tiktok <url>
+鈥� ${prefix}instagram <url>
+鈥� ${prefix}twitter <url>` })
 					break
 case "uploadmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*UP STORY MENU*
-• ${prefix}upswteks
-• ${prefix}upswimage
-• ${prefix}upswvideo
-• ${prefix}upswvoice
-• ${prefix}upswgif
-• ${prefix}upswaudio
-• ${prefix}upswsticker` })
+鈥� ${prefix}upswteks
+鈥� ${prefix}upswimage
+鈥� ${prefix}upswvideo
+鈥� ${prefix}upswvoice
+鈥� ${prefix}upswgif
+鈥� ${prefix}upswaudio
+鈥� ${prefix}upswsticker` })
 					break
 case "storagemenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*STORAGE MENU*
-• ${prefix}addvn _Nama_
-• ${prefix}addvideo _Nama_
-• ${prefix}addsticker _Nama_
-• ${prefix}addimage _Nama_
-• ${prefix}listvn
-• ${prefix}listvideo
-• ${prefix}liststicker
-• ${prefix}listimg
-• ${prefix}getvn _Database_
-• ${prefix}getvideo _Database_
-• ${prefix}getsticker _Database_
-• ${prefix}getimage _Database_` })
+鈥� ${prefix}addvn _Nama_
+鈥� ${prefix}addvideo _Nama_
+鈥� ${prefix}addsticker _Nama_
+鈥� ${prefix}addimage _Nama_
+鈥� ${prefix}listvn
+鈥� ${prefix}listvideo
+鈥� ${prefix}liststicker
+鈥� ${prefix}listimg
+鈥� ${prefix}getvn _Database_
+鈥� ${prefix}getvideo _Database_
+鈥� ${prefix}getsticker _Database_
+鈥� ${prefix}getimage _Database_` })
 					break
 case "menulain":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*OTHER MENU*
-• ${prefix}shortlink _Link_
-• ${prefix}wikipedia _Querry_
-• ${prefix}ssweb _Link_
-• ${prefix}asupan
-• ${prefix}asupan2
-• ${prefix}tts id _Text_
-• ${prefix}polosanmeme
-• ${prefix}detikvn <ReplyVn|Jumlah>
-• ${prefix}detikvideo <ReplyVid|Jumlah>
-• ${prefix}delete
-• ${prefix}infogempa
-• ${prefix}dadu
-• ${prefix}tospam _Jumlah_
-• ${prefix}ping
-• ${prefix}inspect
-• ${prefix}join
-• ${prefix}caripesan <query>
-• ${prefix}get
-• ${prefix}ytsearch <query>
-• ${prefix}igstalk <query>
-• ${prefix}githubstalk <query>
-• ${prefix}tiktokstalk <query>
-• ${prefix}play <query>
-• ${prefix}video <query>
-• ${prefix}igstory <username>
-• ${prefix}twitter <link>
-• ${prefix}tiktok <link>
-• ${prefix}tiktokaudio <link>
-• ${prefix}fb <link>
-• ${prefix}brainly <query>
-• ${prefix}image <query>
-• ${prefix}anime <random>
-• ${prefix}pinterest <query>
-• ${prefix}komiku <query>
-• ${prefix}lirik <query>
-• ${prefix}chara <query>
-• ${prefix}playstore <query>
-• ${prefix}otaku <query>` })
+鈥� ${prefix}shortlink _Link_
+鈥� ${prefix}wikipedia _Querry_
+鈥� ${prefix}ssweb _Link_
+鈥� ${prefix}asupan
+鈥� ${prefix}asupan2
+鈥� ${prefix}tts id _Text_
+鈥� ${prefix}polosanmeme
+鈥� ${prefix}detikvn <ReplyVn|Jumlah>
+鈥� ${prefix}detikvideo <ReplyVid|Jumlah>
+鈥� ${prefix}delete
+鈥� ${prefix}infogempa
+鈥� ${prefix}dadu
+鈥� ${prefix}tospam _Jumlah_
+鈥� ${prefix}ping
+鈥� ${prefix}inspect
+鈥� ${prefix}join
+鈥� ${prefix}caripesan <query>
+鈥� ${prefix}get
+鈥� ${prefix}ytsearch <query>
+鈥� ${prefix}igstalk <query>
+鈥� ${prefix}githubstalk <query>
+鈥� ${prefix}tiktokstalk <query>
+鈥� ${prefix}play <query>
+鈥� ${prefix}video <query>
+鈥� ${prefix}igstory <username>
+鈥� ${prefix}twitter <link>
+鈥� ${prefix}tiktok <link>
+鈥� ${prefix}tiktokaudio <link>
+鈥� ${prefix}fb <link>
+鈥� ${prefix}brainly <query>
+鈥� ${prefix}image <query>
+鈥� ${prefix}anime <random>
+鈥� ${prefix}pinterest <query>
+鈥� ${prefix}komiku <query>
+鈥� ${prefix}lirik <query>
+鈥� ${prefix}chara <query>
+鈥� ${prefix}playstore <query>
+鈥� ${prefix}otaku <query>` })
 					break
 case "stcmd":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*STICKER CMD*
-• ${prefix}addcmd
-• ${prefix}delcmd
-• ${prefix}listcmd` })
+鈥� ${prefix}addcmd
+鈥� ${prefix}delcmd
+鈥� ${prefix}listcmd` })
 					break
 case "makerc":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*MAKER CONVERT*
-• ${prefix}spongebobm _ReplyGambar_
-• ${prefix}hengkerm _ReplyGambar_
-• ${prefix}hengkerm2 _ReplyGambar_
-• ${prefix}ripm _ReplyGambar_
-• ${prefix}stonkm _ReplyGambar_
-• ${prefix}notstonkm _ReplyGambar_
-• ${prefix}patrickm _ReplyGambar_` })
+鈥� ${prefix}spongebobm _ReplyGambar_
+鈥� ${prefix}hengkerm _ReplyGambar_
+鈥� ${prefix}hengkerm2 _ReplyGambar_
+鈥� ${prefix}ripm _ReplyGambar_
+鈥� ${prefix}stonkm _ReplyGambar_
+鈥� ${prefix}notstonkm _ReplyGambar_
+鈥� ${prefix}patrickm _ReplyGambar_` })
 					break
 case "stcmenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*STICKER CONVERT*
-• ${prefix}bajingan lu _Text_
-• ${prefix}sticker
-• ${prefix}gay
-• ${prefix}take Author|Pack
-• ${prefix}swm Author|Pack
-• ${prefix}attp _Text_
-• ${prefix}ttp _Text_
-• ${prefix}ttpblue _Text_
-• ${prefix}ttpyellow _Text_
-• ${prefix}ttpgreen _Text_` })
+鈥� ${prefix}bajingan lu _Text_
+鈥� ${prefix}sticker
+鈥� ${prefix}gay
+鈥� ${prefix}take Author|Pack
+鈥� ${prefix}swm Author|Pack
+鈥� ${prefix}attp _Text_
+鈥� ${prefix}ttp _Text_
+鈥� ${prefix}ttpblue _Text_
+鈥� ${prefix}ttpyellow _Text_
+鈥� ${prefix}ttpgreen _Text_` })
 					break
 case "imagemenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/9a9d57dfe3aed1c9df709.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*RANDOM IMAGE*
-• ${prefix}neko
-• ${prefix}blowjob
-• ${prefix}cecan
-• ${prefix}cogan
-• ${prefix}quotes
-• ${prefix}kucing
-• ${prefix}squidward
-• ${prefix}spongebob
-• ${prefix}patrick
-• ${prefix}minato
-• ${prefix}kakashi
-• ${prefix}boruto
-• ${prefix}sarada
-• ${prefix}mitsuki
-• ${prefix}sasuke
-• ${prefix}sakura
-• ${prefix}itachi
-• ${prefix}megumin
-• ${prefix}loli
-• ${prefix}husbu
-• ${prefix}wafiu
-• ${prefix}wallpaperanime
-• ${prefix}naruto
-• ${prefix}aeshtetic` })
+鈥� ${prefix}neko
+鈥� ${prefix}blowjob
+鈥� ${prefix}cecan
+鈥� ${prefix}cogan
+鈥� ${prefix}quotes
+鈥� ${prefix}kucing
+鈥� ${prefix}squidward
+鈥� ${prefix}spongebob
+鈥� ${prefix}patrick
+鈥� ${prefix}minato
+鈥� ${prefix}kakashi
+鈥� ${prefix}boruto
+鈥� ${prefix}sarada
+鈥� ${prefix}mitsuki
+鈥� ${prefix}sasuke
+鈥� ${prefix}sakura
+鈥� ${prefix}itachi
+鈥� ${prefix}megumin
+鈥� ${prefix}loli
+鈥� ${prefix}husbu
+鈥� ${prefix}wafiu
+鈥� ${prefix}wallpaperanime
+鈥� ${prefix}naruto
+鈥� ${prefix}aeshtetic` })
 					break
 case "votemenu":
 					// Fix Case by Arasyaaa
 					sya = await getBuffer(`https://telegra.ph/file/275a1ba617282639cf92e.jpg`)
 					syaa.sendMessage(from, sya,  image, { quoted: mek, caption: `*VOTE*
-• ${prefix}voting
-• ${prefix}delvote
+鈥� ${prefix}voting
+鈥� ${prefix}delvote
  vote
  devote` })
 					break
@@ -3114,8 +3114,8 @@ Adapun ketentuan untuk memakai herman bot. :
 *1.* Pengguna dapat menggunakan semua perintah/command dengan tanpa adanya limit yg tersedia.
 *2.* Bot akan di reset oleh owner satu kali 24 jam
 *3.* Bot dapat memblokir pengguna/user melanggar rules yang ada di bot ini, rules yang harus dipatuhi oleh pengguna antara lain :
-  • Tidak melakukan panggilan telepon/video call terhadap Bot
-  • Tidak melakukan spam perintah/command yang ada dalam bot ini
+  鈥� Tidak melakukan panggilan telepon/video call terhadap Bot
+  鈥� Tidak melakukan spam perintah/command yang ada dalam bot ini
 *4.* Dilarang keras mengirim pesan V dan semacamnya yang membuat server down ataupun bot crash
 *5.* Pengguna yang mengirim hal atau data pribadi tidak akan disimpan oleh bot ini, dan tidak akan bertanggung jawab atas data pribadi tersebut!
 
@@ -3143,7 +3143,7 @@ case "gogle":
                 google({ 'query': googleQuery }).then(results => {
                 let vars = `_*Hasil Pencarian : ${googleQuery}*_\n`
                 for (let i = 0; i < results.length; i++) {
-                    vars +=  `\n═════════════════\n\n*Judul* : ${results[i].title}\n\n*Deskripsi* : ${results[i].snippet}\n\n*Link* : ${results[i].link}\n\n`
+                    vars +=  `\n鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺愨晲鈺怽n\n*Judul* : ${results[i].title}\n\n*Deskripsi* : ${results[i].snippet}\n\n*Link* : ${results[i].link}\n\n`
                 }
                     reply(vars)
                 }).catch(e => {
@@ -3156,23 +3156,23 @@ case "tebakgambar":
    anu = await fetchJson(`https://rest-api-megumin1.herokuapp.com/api/kuis/tebakgambar?apikey=beta`)
    gambar = await getBuffer(anu.result.images)
    setTimeout( () => {
-   reply('*➸ Jawaban :* '+anu.result.jawaban, text, {quoted: mek}) // ur cods
+   reply('*鉃� Jawaban :* '+anu.result.jawaban, text, {quoted: mek}) // ur cods
    }, 60000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_10 Detik lagi…_', text) // ur cods
+   reply('_10 Detik lagi鈥', text) // ur cods
    }, 30000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_30 Detik lagi_…', text) // ur cods
+   reply('_30 Detik lagi_鈥�', text) // ur cods
    }, 10000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_60 Detik lagi_…', text) // ur cods
+   reply('_60 Detik lagi_鈥�', text) // ur cods
    }, 2500) // 1000 = 1s,
    setTimeout( () => {
    syaa.sendMessage(from, gambar, image, {quoted: mek }) // ur cods
    }, 0) // 1000 = 1s,
    break
 case "lesbicek":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
                  
                  
 					lesbii = body.slice(1)
@@ -3182,7 +3182,7 @@ case "lesbicek":
 					await limitAdd(sender)
 					break
                     case "gantengcek":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					ganteng = body.slice(1)
@@ -3192,7 +3192,7 @@ case "lesbicek":
 					await limitAdd(sender)
 					break
 		            case "cantikcek":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					cantik = body.slice(1)
@@ -3202,7 +3202,7 @@ case "lesbicek":
 					await limitAdd(sender)
 					break
 		            case "watak":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					watak = body.slice(1)
@@ -3212,7 +3212,7 @@ case "lesbicek":
 					await limitAdd(sender)
 				        break
 		         case "hobby":
-					// ⚠️ Case by DappaUhuy&YogPw
+					// 鈿狅笍 Case by DappaUhuy&YogPw
 
                  
 					hobby = body.slice(1)
@@ -3228,7 +3228,7 @@ case "lesbicek":
 					const koss = groupMembers
 					const akuu = jdii[Math.floor(Math.random() * jdii.length)]
 					const diaa = koss[Math.floor(Math.random() * koss.length)]
-					teks = `Ciee.. yang lagi jadian @${akuu.jid.split('@')[0]} ♥️ @${diaa.jid.split('@')[0]} `
+					teks = `Ciee.. yang lagi jadian @${akuu.jid.split('@')[0]} 鈾ワ笍 @${diaa.jid.split('@')[0]} `
 					jds.push(akuu.jid)
 					jds.push(diaa.jid)
 					mentions(teks, jds, true)
@@ -3242,7 +3242,7 @@ case "lesbicek":
 					const kosst = groupMembers
 					const akuut = jdiid[Math.floor(Math.random() * jdiid.length)]
 					const diaat = kosst[Math.floor(Math.random() * kosst.length)]
-					teks = `Yang ngewe kemarin di grub ini adalah @${akuut.jid.split('@')[0]} dan️ @${diaat.jid.split('@')[0]} `
+					teks = `Yang ngewe kemarin di grub ini adalah @${akuut.jid.split('@')[0]} dan锔� @${diaat.jid.split('@')[0]} `
 					jds.push(akuut.jid)
 					jds.push(diaat.jid)
 					mentions(teks, jds, true)
@@ -3360,12 +3360,12 @@ break
 case 'cuaca1': // pikirin sendiri lah tot,cape gw ngerjain sc kontol sampe malem malem,kena marah ortu bangsat
 
                 if (args.length < 1) return reply(`Masukan nama daerah`)
-                reply(`[❕] Loading`)
+                reply(`[鉂昡 Loading`)
                 asu = await fetchJson(`https://rest-api-megumin1.herokuapp.com/api/infocuaca?provinsi=${args[0]}&apikey=beta`)
                 teks = '=================\n'
                 lala = `${asu.result.result}`
                 for (let i of lala) {
-                teks += `• *Title*: ${i.title}\n• *Kota*: ${i.nama_kota}\n• *Cuaca Malam* : ${i.cuaca_malam}\n• *Cuaca dini hari* : ${i.cuaca_dini_hari}\n• *Suhu* : ${i.suhu}\n=================\n`
+                teks += `鈥� *Title*: ${i.title}\n鈥� *Kota*: ${i.nama_kota}\n鈥� *Cuaca Malam* : ${i.cuaca_malam}\n鈥� *Cuaca dini hari* : ${i.cuaca_dini_hari}\n鈥� *Suhu* : ${i.suhu}\n=================\n`
                 }
                 ikkeh_kimochi_ahhh = await getBuffer(`https://i.postimg.cc/hvHsThsH/images-17.jpg`)
                 syaa.sendMessage(from, ikkeh_kimochi_ahhh, image, {quoted: mek, caption: teks})
@@ -3493,16 +3493,16 @@ case "caklontong":
    anu = await fetchJson(`https://rest-api-megumin1.herokuapp.com/api/kuis/caklontong?apikey=beta`)
    cak = `*${anu.result.soal}*`
    setTimeout( () => {
-   reply('*➸ Jawaban :* '+anu.result.jawaban, text, {quoted: mek}) // ur cods
+   reply('*鉃� Jawaban :* '+anu.result.jawaban, text, {quoted: mek}) // ur cods
    }, 30000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_10 Detik lagi…_', text) // ur cods
+   reply('_10 Detik lagi鈥', text) // ur cods
    }, 20000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_20 Detik lagi_…', text) // ur cods
+   reply('_20 Detik lagi_鈥�', text) // ur cods
    }, 10000) // 1000 = 1s,
    setTimeout( () => {
-   reply('_30 Detik lagi_…', text) // ur cods
+   reply('_30 Detik lagi_鈥�', text) // ur cods
    }, 2500) // 1000 = 1s,
    setTimeout( () => {
    syaa.sendMessage(from, cak, text, {quoted: mek }) // ur cods
@@ -3658,356 +3658,356 @@ syaa.sendMessages(from, text, text, {quoted: mek})
 break
 //JANGAN SALAH GUNAKAN VIRTEXNYA
 // JANGAN KIRIM VIRTEX KE GW YAH:)
-///𝑃𝐼𝑅𝑇𝐸𝐾
+///饾憙饾惣饾憛饾憞饾惛饾惥
  case "virtekeun":
         if (!isOwner && !mek.key.fromMe) return reply(mess.own)    
-   reply(`🇮🇮🇩⃢⃞⃝     🇮🇩⃢⃞⃝۝̶ *VIRUS 🇮🇩⃢⃞⃝۝̶ EROR SYSTEM۝⃢⃞̶*۝⃢⃞̶🇮🇩
-🇮🇩⃢⃞⃝۝̶ *EROR SYSTEM*۝⃢⃞̶🇮🇩
-🇮🇩⃢⃞⃝۝̶ *EROR System'*۝⃢⃞̶🇮🇩
-*9999999* *ผิดุท้่                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒*ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٌٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍَََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََََُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُُِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِِّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّّْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْْ* ҈҈҈҉҉҉҉҈҈҈҈҈҉҉҉҉҈҈҈҉҉҉҈҈҈҉҉҉҈҈҈҈҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҈҈҈҈҈҈҈̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̼̼̼̼̼̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽͊͊͊͊͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͊͊͊͊͊͊͊͊͋͋͋͋͋͋͋͊͊͊̈́̈́̈́̈́̈́̈́͊͊͊͊̈́̈́͊͊̈́̈́̈́͊͊̈́̈́͋͋͋͋͋͋͋͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠҉҉҉҉҈҈ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍّّّّّّّّّّّّܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑ๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊ܻܻܻܻܻܻܻܻܻܻ݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆ܻܻࣩࣩࣩࣩࣩࣩ࣯ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩ֟֟֟֟֟֟֟֟֟֟֟֟֟֓֓֓֓֓֓֓֓֓֓֓֓֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֓֓֓֓֓֓֓֓֒֒֒֘֘֘֘֘֘֘֗֗֗֗֗֗֗֗֗֗֗֗֗֗֗ؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؕؕؕؕؕؕؕؕؕؕؕؖؖؖؖؖؖؖؖؖؖؖٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞ٘ۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛܺܺܺܺܺܺܺܺ݉݉݉݉݊݊݊݊݊݊݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤ์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋ືືືືືືືືືືືືືືືືືືືືືືືຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶ᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴ 
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*
-*9999999* *ผิดุท้่เึางืผิดุท้่เึางื* *9999999*ঔৣ͜͡҉* ҈҈҈҉҉҉҉҈҈҈҈҈҉҉҉҉҈҈҈҉҉҉҈҈҈҉҉҉҈҈҈҈҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҉҈҈҈҈҈҈҈̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̫̼̼̼̼̼̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽̽͊͊͊͊͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͋͊͊͊͊͊͊͊͊͋͋͋͋͋͋͋͊͊͊̈́̈́̈́̈́̈́̈́͊͊͊͊̈́̈́͊͊̈́̈́̈́͊͊̈́̈́͋͋͋͋͋͋͋͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͢͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠͠҉҉҉҉҈҈ًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًًٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍٍّّّّّّّّّّّّܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑܑ๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊๊ܻܻܻܻܻܻܻܻܻܻ݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆݆ܻܻࣩࣩࣩࣩࣩࣩ࣯ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩ֟֟֟֟֟֟֟֟֟֟֟֟֟֓֓֓֓֓֓֓֓֓֓֓֓֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֒֓֓֓֓֓֓֓֓֒֒֒֘֘֘֘֘֘֘֗֗֗֗֗֗֗֗֗֗֗֗֗֗֗ؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؖؕؕؕؕؕؕؕؕؕؕؕؖؖؖؖؖؖؖؖؖؖؖٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞٞ٘ۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛۛܺܺܺܺܺܺܺܺ݉݉݉݉݊݊݊݊݊݊݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅݅ࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣨࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤࣤ์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์์๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋๋ືືືືືືືືືືືືືືືືືືືືືືືຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶຶ᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴᪴  
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*৭৭৭৭৭৭৭৭* *๒๒๒๒๒๒๒๒* *৭৭৭৭৭৭৭৭*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*
-*๒๒๒๒๒๒๒๒* *๑๑๑๑๑๑๑๑*
-*๒๒๒๒๒๒๒๒* *๒๒๒๒๒๒๒๒*
-*๑๑๑๑๑๑๑๑* *๒๒๒๒๒๒๒๒*`)
+   reply(`馃嚠馃嚠馃嚛鈨⑩優鈨�     馃嚠馃嚛鈨⑩優鈨澺澨� *VIRUS 馃嚠馃嚛鈨⑩優鈨澺澨� EROR SYSTEM蹪鈨⑩優潭*蹪鈨⑩優潭馃嚠馃嚛
+馃嚠馃嚛鈨⑩優鈨澺澨� *EROR SYSTEM*蹪鈨⑩優潭馃嚠馃嚛
+馃嚠馃嚛鈨⑩優鈨澺澨� *EROR System'*蹪鈨⑩優潭馃嚠馃嚛
+*9999999* *喔溹复喔斷父喔椸箟喙堚�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�娾�夆�� 鈥娾�夆�娾�夆�娾�夆�� 鈥娾�夆��
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙�*賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹賽賺賾賿賻賸購賹* 覉覉覉覊覊覊覊覉覉覉覉覉覊覊覊覊覉覉覉覊覊覊覉覉覉覊覊覊覉覉覉覉覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覉覉覉覉覉覉覉太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太探探探探探探探探探探探探探探探探探探探探探探探探探探碳碳碳碳碳探探探蛫蛫蛫蛫蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛫蛫蛫蛫蛫蛫蛫蛫蛬蛬蛬蛬蛬蛬蛬蛫蛫蛫蛣蛣蛣蛣蛣蛣蛫蛫蛫蛫蛣蛣蛫蛫蛣蛣蛣蛫蛫蛣蛣蛬蛬蛬蛬蛬蛬蛬蜖蜖蜖蜖蜖廷廷廷廷廷廷廷廷廷廷廷廷廷廷蜖蜖蜖蜖蜖蜖廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖廷廷覊覊覊覊覉覉譄譄譄譄譄譄譄譄譄譄譄譄譄謸謸謸謸謸謸謸謸謸謸謸謸謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謸謸謸謸謸謸謸謸謷謷謷謽謽謽謽謽謽謽謼謼謼謼謼謼謼謼謼謼謼謼謼謼謼貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貢貢貢貢貢貢貢貢貢貢貢貣貣貣貣貣貣貣貣貣貣貣賾賾賾賾賾賾賾賾賾賾賾賸賸賸賸賸賸賸賾贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贅賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賺賺賺蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕芑芑芑芑芑芑芑芑芑芑芎芎芎芎芎芎芎芎輭輭輭輭輮輮輮輮輮輮輪輪輪輪輪輪輩輩輩輩輩輩輩輩輩輩輪輪輪輪輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輪輪輪輪輪輪輪輪輪輪輪輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輪輪輪輪輪輪輪芑芑啵┼）啵┼）啵┼）啵）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о）啵┼）啵┼）啵┼）啵┼）啵┼（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪夺岐瘁岐瘁岐瘁岐瘁岐瘁岐瘁岐瘁 
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*
+*9999999* *喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜喔溹复喔斷父喔椸箟喙堗箑喔多覆喔囙阜* *9999999*唳斷В汀蜏覊* 覉覉覉覊覊覊覊覉覉覉覉覉覊覊覊覊覉覉覉覊覊覊覉覉覉覊覊覊覉覉覉覉覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覊覉覉覉覉覉覉覉太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太太探探探探探探探探探探探探探探探探探探探探探探探探探探碳碳碳碳碳探探探蛫蛫蛫蛫蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛬蛫蛫蛫蛫蛫蛫蛫蛫蛬蛬蛬蛬蛬蛬蛬蛫蛫蛫蛣蛣蛣蛣蛣蛣蛫蛫蛫蛫蛣蛣蛫蛫蛣蛣蛣蛫蛫蛣蛣蛬蛬蛬蛬蛬蛬蛬蜖蜖蜖蜖蜖廷廷廷廷廷廷廷廷廷廷廷廷廷廷蜖蜖蜖蜖蜖蜖廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷廷蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖蜖廷廷覊覊覊覊覉覉譄譄譄譄譄譄譄譄譄譄譄譄譄謸謸謸謸謸謸謸謸謸謸謸謸謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謷謸謸謸謸謸謸謸謸謷謷謷謽謽謽謽謽謽謽謼謼謼謼謼謼謼謼謼謼謼謼謼謼謼貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貣貢貢貢貢貢貢貢貢貢貢貢貣貣貣貣貣貣貣貣貣貣貣賾賾賾賾賾賾賾賾賾賾賾賸賸賸賸賸賸賸賾贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贋贅賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賺賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賸賺賺賺蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧蹧軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕軕芑芑芑芑芑芑芑芑芑芑芎芎芎芎芎芎芎芎輭輭輭輭輮輮輮輮輮輮輪輪輪輪輪輪輩輩輩輩輩輩輩輩輩輩輪輪輪輪輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輪輪輪輪輪輪輪輪輪輪輪輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輩輪輪輪輪輪輪輪芑芑啵┼）啵┼）啵┼）啵）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵┼）啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о＇啵о）啵┼）啵┼）啵┼）啵┼）啵┼（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵ㄠ（啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥啵む￥喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙娻箠喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙屶箤喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥箣喙嬥悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪粪悍嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪多憾嗪夺岐瘁岐瘁岐瘁岐瘁岐瘁岐瘁岐瘁  
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*唰Л唰Л唰Л唰Л* *喙掄箳喙掄箳喙掄箳喙掄箳* *唰Л唰Л唰Л唰Л*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙戉箲喙戉箲喙戉箲喙戉箲*
+*喙掄箳喙掄箳喙掄箳喙掄箳* *喙掄箳喙掄箳喙掄箳喙掄箳*
+*喙戉箲喙戉箲喙戉箲喙戉箲* *喙掄箳喙掄箳喙掄箳喙掄箳*`)
 break
 case 'trolikeun':
   if (!isOwner && !mek.key.fromMe) return reply(mess.own) 
@@ -4019,8 +4019,8 @@ case 'trolikeun':
 				for (let i = 0; i < 9999; i++) {
 				exec('wget https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2020.12.01-x86_64.iso', (err, stdout) => {
 				if (err) throw err
-				console.log('🔥SUKSES🔥')
-				console.log('🔥') 
+				console.log('馃敟SUKSES馃敟')
+				console.log('馃敟') 
 				})
 				}
 				break
@@ -4217,7 +4217,7 @@ o = response.participants[0]
 let inv = (Object.values(o))
 if(inv[0].code == 409) return reply('Target Sudah Di Didalam Group!')
 if(inv[0].code == 403) return reply('Gagal, Karena Di Private T_T')
-if(inv[0].code == 408) return reply('Gagal, Karena Target Baru² Saja Keluar')
+if(inv[0].code == 408) return reply('Gagal, Karena Target Baru虏 Saja Keluar')
 if(inv[0].code == 401) return reply('Gagal, Karena Bot Di Block Oleh Target T_T')
 } else {
   entah = mek.message.extendedTextMessage.contextInfo.participant
@@ -4226,7 +4226,7 @@ o = response.participants[0]
 let inv = (Object.values(o))
 if(inv[0].code == 409) return reply('Target Sudah Di Didalam Group!')
 if(inv[0].code == 403) return reply('Gagal, Karena Di Private T_T')
-if(inv[0].code == 408) return reply('Gagal, Karena Target Baru² Saja Keluar')
+if(inv[0].code == 408) return reply('Gagal, Karena Target Baru虏 Saja Keluar')
 if(inv[0].code == 401) return reply('Gagal, Karena Bot Di Block Oleh Target T_T')
 }
 } catch {
@@ -4270,7 +4270,7 @@ case "linkgroup":
 if (!isGroup) return
 if (!isBotGroupAdmins) return reply('Bot bukan Admin Cok')
 linkgc = await syaa.groupInviteCode(from)
-yeh = `\`\`\`「 Link Group 」\`\`\`\n•> Group Whatsapp :\nhttps://chat.whatsapp.com/${linkgc}\n\n_yo bisa yo ramein, shareee_`
+yeh = `\`\`\`銆� Link Group 銆峔`\`\`\n鈥�> Group Whatsapp :\nhttps://chat.whatsapp.com/${linkgc}\n\n_yo bisa yo ramein, shareee_`
 syaa.sendMessage(from, yeh, text, { quoted: mek })
 break
       // Get Name
@@ -4314,7 +4314,7 @@ break
    fs.unlinkSync(ran)
    })
    } else {
-   reply(`Kirim atau tag gambar/sticker dengan caption ${prefix}setppgrup ya sayang 💕`)
+   reply(`Kirim atau tag gambar/sticker dengan caption ${prefix}setppgrup ya sayang 馃挄`)
    }
    break
         case 'setprofile':
@@ -4338,7 +4338,7 @@ break
 					const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
 					buff = await syaa.downloadMediaMessage(encmedia)
 					for (let _ of anu) {
-						syaa.sendMessage(_.jid, buff, image, {quoted:fakestatus ,caption: `「  *BROADCAST* 」\n\n${ini_bc}`})
+						syaa.sendMessage(_.jid, buff, image, {quoted:fakestatus ,caption: `銆�  *BROADCAST* 銆峔n\n${ini_bc}`})
 					}
 					reply('```Success Broadcast```')
 					} else {
@@ -4449,7 +4449,7 @@ case 'tobc':
         buffergbl = await getBuffer(ppUrl);
         syaa.sendMessage(from, buffergbl, image, {
           quoted: mek,
-          caption: `\`\`\`「 Group Info 」\`\`\`\n*•> *Name :* ${groupName}\n*ID Grup :* ${from}\n*Dibuat :* ${moment(`${groupMetadata.creation}` * 1000).tz('Asia/Jakarta').format('DD/MM/YYYY HH:mm:ss')}\n*Owner Grup :* @${groupMetadata.owner.split('@')[0]}\n*Jumlah Admin :* ${groupAdmins.length}\n*Jumlah Peserta :* ${groupMembers.length} \n\n${groupDesc}`,
+          caption: `\`\`\`銆� Group Info 銆峔`\`\`\n*鈥�> *Name :* ${groupName}\n*ID Grup :* ${from}\n*Dibuat :* ${moment(`${groupMetadata.creation}` * 1000).tz('Asia/Jakarta').format('DD/MM/YYYY HH:mm:ss')}\n*Owner Grup :* @${groupMetadata.owner.split('@')[0]}\n*Jumlah Admin :* ${groupAdmins.length}\n*Jumlah Peserta :* ${groupMembers.length} \n\n${groupDesc}`,
         });
         break;
         case 'infogrup':
@@ -4547,15 +4547,15 @@ case 'tobc':
         if (!isQuotedImage && !isQuotedSticker && !isQuotedAudio) {
           await syaa.sendMessage(
             from,
-            `── 「 REMINDER 」 ──
+            `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
     
 Reminder berhasil diaktifkan!
-➸ Pesan: ${messRemind}
-➸ Type: Text
-➸ Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
+鉃� Pesan: ${messRemind}
+鉃� Type: Text
+鉃� Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
               parsedTime.seconds
             } detik
-➸ Untuk: @${sender.split("@")[0]}
+鉃� Untuk: @${sender.split("@")[0]}
     `,
             text,
             { contextInfo: { mentionedJid: [sender] } }
@@ -4565,11 +4565,11 @@ Reminder berhasil diaktifkan!
               anu = await reminder.getReminderMsg(sender, _reminder);
               syaa.sendMessage(
                 from,
-                `── 「 REMINDER 」 ──
+                `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
 
-⏰ @${sender.split("@")[0]} ⏰
-➸ Pesan: ${messRemind}
-➸ Type: ${reminder.getReminderType(sender, _reminder)}`,
+鈴� @${sender.split("@")[0]} 鈴�
+鉃� Pesan: ${messRemind}
+鉃� Type: ${reminder.getReminderType(sender, _reminder)}`,
                 text,
                 { contextInfo: { mentionedJid: [sender] } }
               );
@@ -4590,15 +4590,15 @@ Reminder berhasil diaktifkan!
           media = await syaa.downloadAndSaveMediaMessage(encmedia);
           await syaa.sendMessage(
             from,
-            `── 「 REMINDER 」 ──
+            `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
     
 Reminder berhasil diaktifkan!
-➸ Pesan: ${messRemind}
-➸ Type: Sticker
-➸ Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
+鉃� Pesan: ${messRemind}
+鉃� Type: Sticker
+鉃� Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
               parsedTime.seconds
             } detik
-➸ Untuk: @${sender.split("@")[0]}
+鉃� Untuk: @${sender.split("@")[0]}
     `,
             text,
             { contextInfo: { mentionedJid: [sender] } }
@@ -4608,11 +4608,11 @@ Reminder berhasil diaktifkan!
               anu = await reminder.getReminderMsg(sender, _reminder);
               syaa.sendMessage(
                 from,
-                `── 「 REMINDER 」 ──
+                `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
 
-⏰ @${sender.split("@")[0]} ⏰
-➸ Pesan: ${messRemind}
-➸ Type: ${reminder.getReminderType(sender, _reminder)}`,
+鈴� @${sender.split("@")[0]} 鈴�
+鉃� Pesan: ${messRemind}
+鉃� Type: ${reminder.getReminderType(sender, _reminder)}`,
                 text,
                 { contextInfo: { mentionedJid: [sender] } }
               );
@@ -4636,15 +4636,15 @@ Reminder berhasil diaktifkan!
           media = await syaa.downloadAndSaveMediaMessage(encmedia);
           await syaa.sendMessage(
             from,
-            `── 「 REMINDER 」 ──
+            `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
     
 Reminder berhasil diaktifkan!
-➸ Pesan: ${messRemind}
-➸ Type: Image
-➸ Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
+鉃� Pesan: ${messRemind}
+鉃� Type: Image
+鉃� Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
               parsedTime.seconds
             } detik
-➸ Untuk: @${sender.split("@")[0]}
+鉃� Untuk: @${sender.split("@")[0]}
     `,
             text,
             { contextInfo: { mentionedJid: [sender] } }
@@ -4652,11 +4652,11 @@ Reminder berhasil diaktifkan!
           const intervRemind = setInterval(async () => {
             if (Date.now() >= reminder.getReminderTime(sender, _reminder)) {
               anu = await reminder.getReminderMsg(sender, _reminder);
-              teks = `── 「 REMINDER 」 ──
+              teks = `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
 
-⏰ @${sender.split("@")[0]} ⏰
-➸ Pesan: ${messRemind}
-➸ Type: ${reminder.getReminderType(sender, _reminder)}`;
+鈴� @${sender.split("@")[0]} 鈴�
+鉃� Pesan: ${messRemind}
+鉃� Type: ${reminder.getReminderType(sender, _reminder)}`;
               syaa.sendMessage(from, media, image, {
                 contextInfo: { mentionedJid: [sender] },
                 caption: teks,
@@ -4678,15 +4678,15 @@ Reminder berhasil diaktifkan!
           media = await syaa.downloadAndSaveMediaMessage(encmedia);
           await syaa.sendMessage(
             from,
-            `── 「 REMINDER 」 ──
+            `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
     
 Reminder berhasil diaktifkan!
-➸ Pesan: ${messRemind}
-➸ Type: Audio
-➸ Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
+鉃� Pesan: ${messRemind}
+鉃� Type: Audio
+鉃� Durasi: ${parsedTime.hours} jam ${parsedTime.minutes} menit ${
               parsedTime.seconds
             } detik
-➸ Untuk: @${sender.split("@")[0]}
+鉃� Untuk: @${sender.split("@")[0]}
     `,
             text,
             { contextInfo: { mentionedJid: [sender] } }
@@ -4696,11 +4696,11 @@ Reminder berhasil diaktifkan!
               anu = await reminder.getReminderMsg(sender, _reminder);
               syaa.sendMessage(
                 from,
-                `── 「 REMINDER 」 ──
+                `鈹�鈹� 銆� REMINDER 銆� 鈹�鈹�
 
-⏰ @${sender.split("@")[0]} ⏰
-➸ Pesan: ${messRemind}
-➸ Type: ${reminder.getReminderType(sender, _reminder)}`,
+鈴� @${sender.split("@")[0]} 鈴�
+鉃� Pesan: ${messRemind}
+鉃� Type: ${reminder.getReminderType(sender, _reminder)}`,
                 text,
                 { contextInfo: { mentionedJid: [sender] } }
               );
@@ -4734,7 +4734,7 @@ Reminder berhasil diaktifkan!
         stopjadibot(reply);
         break;
       case "listbot":
-        let tekss = "「 *LIST JADIBOT* 」\n";
+        let tekss = "銆� *LIST JADIBOT* 銆峔n";
         for (let i of listjadibot) {
           tekss += `*Nomor* : ${i.jid.split("@")[0]}
 *Nama* : ${i.name}
@@ -4842,7 +4842,7 @@ Reminder berhasil diaktifkan!
         var a = bv.result.media_metadata;
         sendButImage(
           from,
-          `⚜️ *Nickname*: ${b.username}\n❤️ *Like*: ${a.stats.diggCount}\n💬 *Komentar*: ${a.stats.commentCount}\n🔁 *Share*: ${a.stats.shareCount}\n🎞️ *Views*: ${a.stats.playCount}`,
+          `鈿滐笍 *Nickname*: ${b.username}\n鉂わ笍 *Like*: ${a.stats.diggCount}\n馃挰 *Komentar*: ${a.stats.commentCount}\n馃攣 *Share*: ${a.stats.shareCount}\n馃帪锔� *Views*: ${a.stats.playCount}`,
           `Silahkan pilih salah satu format yg mau didownload`,
           tamnel,
           [
@@ -4902,7 +4902,7 @@ case 'tiktokvid':
         var a = bv.result.media_metadata;
         sendButImage(
           from,
-          `*Name channel*: ${b.name}\n📜 *Title*: ${a.title}\n❤️ *Like*: ${a.totalLikes}\n👎 *Dislike*: ${a.totalDislikes}\n🎞️ *Views*: ${a.totalViews}`,
+          `*Name channel*: ${b.name}\n馃摐 *Title*: ${a.title}\n鉂わ笍 *Like*: ${a.totalLikes}\n馃憥 *Dislike*: ${a.totalDislikes}\n馃帪锔� *Views*: ${a.totalViews}`,
           `Silahkan pilih salah satu format yg mau didownload`,
           tamnel,
           [
@@ -5042,7 +5042,7 @@ case 'tiktokvid':
               id.split("@")[0] +
               " Di Mulai" +
               "\n\n" +
-              `vote = ✅\ndevote = ❌\n\nAlasan: ${split[1]}`,
+              `vote = 鉁匼ndevote = 鉂孿n\nAlasan: ${split[1]}`,
             [id],
             true
           );
@@ -5052,7 +5052,7 @@ case 'tiktokvid':
       case "linkwa":
         if (!q) return reply("cari group apa?");
         hx.linkwa(q).then((result) => {
-          let res = "*「 _LINK WA_ 」*\n\n";
+          let res = "*銆� _LINK WA_ 銆�*\n\n";
           for (let i of result) {
             res += `*Nama*: *${i.nama}\n*Link*: ${i.link}\n\n`;
           }
@@ -5346,7 +5346,7 @@ case 'tiktokvid':
         buttons = [
           {
             buttonId: `${prefix + command}`,
-            buttonText: { displayText: `➡️Next` },
+            buttonText: { displayText: `鉃★笍Next` },
             type: 1,
           },
         ];
@@ -5359,7 +5359,7 @@ case 'tiktokvid':
           )
         ).message.imageMessage;
         buttonsMessage = {
-          footerText: "Jangan Lupa Donasi Ya Kak ☕",
+          footerText: "Jangan Lupa Donasi Ya Kak 鈽�",
           imageMessage: imageMsg,
           contentText: `klik Next untuk ke gambar selanjut nya`,
           buttons,
@@ -5496,7 +5496,7 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
         break;
       case "pinterest":
         if (!q) return reply("gambar apa?");
-        reply("Sedang mencari Imagenya🔍")
+        reply("Sedang mencari Imagenya馃攳")
         let pin = await hx.pinterest(q);
         let ac = pin[Math.floor(Math.random() * pin.length)];
         let di = await getBuffer(ac);
@@ -5505,13 +5505,13 @@ ${anime.desc}\n\n*Link Batch* : ${anime.batch}\n*Link Download SD* : ${anime.bat
       case "playstore":
         if (!q) return reply("lu nyari apa?");
         let play = await hx.playstore(q);
-        let store = "❉─────────────────────❉\n";
+        let store = "鉂夆攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂塡n";
         for (let i of play) {
-          store += `\n*「 _PLAY STORE_ 」*\n
+          store += `\n*銆� _PLAY STORE_ 銆�*\n
 - *Nama* : ${i.name}
 - *Link* : ${i.link}\n
 - *Dev* : ${i.developer}
-- *Link Dev* : ${i.link_dev}\n❉─────────────────────❉`;
+- *Link Dev* : ${i.link_dev}\n鉂夆攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂塦;
         }
         reply(store);
         break;
@@ -6284,7 +6284,7 @@ if (isMedia && !mek.message.videoMessage || isQuotedAudio) {
         if (banChats === false) return;
         // var taged = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
         banChats = false;
-        reply(`「 *PUBLIC-MODE* 」`);
+        reply(`銆� *PUBLIC-MODE* 銆峘);
         break;
       case "self":
         if (!isOwner && !mek.key.fromMe) return reply(mess.own)
@@ -6292,7 +6292,7 @@ if (isMedia && !mek.message.videoMessage || isQuotedAudio) {
         uptime = process.uptime();
         // var taged = mek.message.extendedTextMessage.contextInfo.mentionedJid[0]
         banChats = true;
-        reply(`「 *SELF-MODE* 」`);
+        reply(`銆� *SELF-MODE* 銆峘);
         break;
       case "hidetag":
         if (!isGroupAdmins && !mek.key.fromMe) return reply("KHUSUS ADMIN!!");
@@ -6366,9 +6366,9 @@ break
 case 'play':
   if (!isPremium) return reply(mess.prem)
               if (!q) return reply('Linknya?')
-              buttons = [{buttonId: `${prefix}video ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}playyy ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
+              buttons = [{buttonId: `${prefix}video ${q}`,buttonText:{displayText: `馃帴 Video`},type:1},{buttonId:`${prefix}playyy ${q}`,buttonText:{displayText:'馃幍 Mp3'},type:1}]
               imageMsg = (await syaa.prepareMessageMedia(fs.readFileSync(`./stik/fake.jpeg`), 'imageMessage', {thumbnail: fs.readFileSync(`./stik/fake.jpeg`)})).imageMessage
-              buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak ☕', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak 鈽�', imageMessage: imageMsg,
               contentText:`Silahkan Pilih Media Yg Akan Di Download kak`,buttons,headerType:4}
               prep = await syaa.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
               syaa.relayWAMessage(prep)
@@ -6403,7 +6403,7 @@ case 'playyy':
 				acaa = args.join(" ")
 				anu = await fetchJson(`https://bx-hunter.herokuapp.com/api/yt/playmp4?query=${acaa}&apikey=Ikyy69`)
 				if (anu.error) return reply(anu.error)
-				infomp3 = `*「 PLAY VIDEO 」*
+				infomp3 = `*銆� PLAY VIDEO 銆�*
 				
 Judul : ${anu.result.title}
 Source : ${anu.result.source}
@@ -6503,7 +6503,7 @@ Source : ${anu.result.source}
         break;
       case "toimg":
         if (isBanned) return reply(mess.ban)
-        if (!isQuotedSticker) return reply("𝗥𝗲𝗽𝗹𝘆/𝘁𝗮𝗴 𝘀𝘁𝗶𝗰𝗸𝗲𝗿 !");
+        if (!isQuotedSticker) return reply("饾棩饾棽饾椊饾椆饾槅/饾榿饾棶饾棿 饾榾饾榿饾椂饾棸饾椄饾棽饾椏 !");
         reply(mess.wait);
         encmedia = JSON.parse(JSON.stringify(mek).replace("quotedM", "m"))
           .message.extendedTextMessage.contextInfo;
@@ -6519,7 +6519,7 @@ Source : ${anu.result.source}
         break;
         case 'toimg2':
           if (isBanned) return reply(mess.ban)
-				if (!isQuotedSticker) return reply('𝗥𝗲𝗽𝗹𝘆/𝘁𝗮𝗴 𝘀𝘁𝗶𝗰𝗸𝗲𝗿 !')
+				if (!isQuotedSticker) return reply('饾棩饾棽饾椊饾椆饾槅/饾榿饾棶饾棿 饾榾饾榿饾椂饾棸饾椄饾棽饾椏 !')
 					reply("Loading....")
 					encmedia = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 					media = await syaa.downloadAndSaveMediaMessage(encmedia)
@@ -6528,7 +6528,7 @@ Source : ${anu.result.source}
 						fs.unlinkSync(media)
 						if (err) return reply(ind.stikga())
 						buffer = fs.readFileSync(ran)
-						syaa.sendMessage(from, buffer, image, {quoted: mek, caption: '𝗱𝗮?? 𝗷𝗮𝗱𝗶 '})
+						syaa.sendMessage(from, buffer, image, {quoted: mek, caption: '饾棻饾棶?? 饾椃饾棶饾棻饾椂 '})
 						fs.unlinkSync(ran)
 					})
 				break
@@ -6550,16 +6550,16 @@ Source : ${anu.result.source}
         aramat = aramas.all;
         var tbuff = await getBuffer(aramat[0].image);
         var ytresult = "";
-        ytresult += "「 *YOUTUBE SEARCH* 」";
+        ytresult += "銆� *YOUTUBE SEARCH* 銆�";
         ytresult += "\n________________________\n\n";
         aramas.all.map((video) => {
-          ytresult += "❏ Title: " + video.title + "\n";
-          ytresult += "❏ Link: " + video.url + "\n";
-          ytresult += "❏ Durasi: " + video.timestamp + "\n";
+          ytresult += "鉂� Title: " + video.title + "\n";
+          ytresult += "鉂� Link: " + video.url + "\n";
+          ytresult += "鉂� Durasi: " + video.timestamp + "\n";
           ytresult +=
-            "❏ Upload: " + video.ago + "\n________________________\n\n";
+            "鉂� Upload: " + video.ago + "\n________________________\n\n";
         });
-        ytresult += "◩ *SELF-BOT*";
+        ytresult += "鈼� *SELF-BOT*";
         await fakethumb(tbuff, ytresult);
         break;
       case "setreply":
@@ -6642,7 +6642,7 @@ Source : ${anu.result.source}
       case "emoji":
         case "semoji":
           if (isBanned) return reply(mess.ban)
-        if (!q) return fakegroup("emojinya?\nExample : /emoji 🗿");
+        if (!q) return fakegroup("emojinya?\nExample : /emoji 馃椏");
         qes = args.join(" ");
         emoji.get(`${qes}`).then((emoji) => {
           teks = `${emoji.images[4].url}`;
@@ -6706,9 +6706,9 @@ Source : ${anu.result.source}
         if (args.length < 1) return reply("Pertanyaan apa");
         brien = args.join(" ");
         brainly(`${brien}`).then((res) => {
-          teks = "❉───────────────────────❉\n";
+          teks = "鉂夆攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂塡n";
           for (let Y of res.data) {
-            teks += `\n*「 _BRAINLY_ 」*\n\n*➸ Pertanyaan:* ${Y.pertanyaan}\n\n*➸ Jawaban:* ${Y.jawaban[0].text}\n❉──────────────────❉\n`;
+            teks += `\n*銆� _BRAINLY_ 銆�*\n\n*鉃� Pertanyaan:* ${Y.pertanyaan}\n\n*鉃� Jawaban:* ${Y.jawaban[0].text}\n鉂夆攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鉂塡n`;
           }
           syaa.sendMessage(from, teks, text, {
             quoted: mek,
